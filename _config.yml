@@ -1,18 +1,18 @@
-name:       'Fogies Base'
+name:       'CSE 510'
 
 brandimage: ''
-brandtext:  'Fogies'
+brandtext:  'CSE 510 - Advanced Topics in HCI - Winter 2016'
 
 lessc: node_modules/.bin/lessc
 
 navbar:
   items:
-    - text: 'Bar-Sidebar-None'
-      link: 'base_sample/bar-sidebar-none.html'
-    - text: 'Bar-Sidebar-Right'
-      link: 'base_sample/bar-sidebar-right.html'
-    - text: 'Freelancer'
-      link: 'base_sample/freelancer.html'
+    - text: 'Home'
+      link: 'index.html'
+    - text: 'Project'
+      link: 'assignments/project.html'
+    - text: 'Calendar'
+      link: 'calendar.html'
 
 exclude:
   # base
@@ -50,3 +50,7 @@ exclude:
   - secrets
   # Tests
   - tests
+
+collections:
+  assignments:
+    output: true
