@@ -3,6 +3,10 @@ layout: base/bar/bar-sidebar-none
 title: "Project"
 ---
 
+`This page is still being migrated and developed.`
+
+`Information here is likely suggestive of the final page, but remains subject to change.`
+
 ## Overview
 
 A course project will be a major component of your work.
