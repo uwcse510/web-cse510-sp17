@@ -12,7 +12,7 @@ title: "Project"
 A course project will be a major component of your work.
 This will require hands-on experience with HCI, while remaining open to different possibilities.
 
-Because you are still new to HCI research, we do not necessarily expect you to produce publishable work
+Because you are still new to HCI research, we do not necessarily expect you to produce publishable work.
 Instead, the expectation is that you will do something _interesting_.
 It is then up to you to define _interesting_ according to what you want to accomplish in this project,
 seeking appropriate feedback from staff.

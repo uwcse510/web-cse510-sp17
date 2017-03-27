@@ -118,7 +118,7 @@ calendar:
 
         Second, individually read at least one more of the above vision papers.
 
-        No reading report is necessary, but each picking a secondn paper benefits in-class discussion.
+        No reading report is necessary, but everyone picking a second paper benefits in-class discussion.
         Note that some of these are quite long.
         We are assigning them so that you can see these visions and explore them appropriately.
         You can and should skim according to your needs.
