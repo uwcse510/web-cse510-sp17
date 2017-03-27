@@ -3,18 +3,14 @@ layout: base/bar/bar-sidebar-none
 title: Course Overview
 ---
 
-`This page is still being migrated and developed.`
-
-`Information here is likely suggestive of the final page, but remains subject to change.`
-
 ## Course Description
 
-This course provides an introduction to several major areas of Human-Computer Interaction (HCI) research.
+This course provides an introduction to several major areas of research in Human-Computer Interaction (HCI).
 It is based in a combination of readings and discussion, a small statistics lab, and a self-defined project.
 
-This course is explicitly not focused on the design methods used in HCI practice. 
-We briefly cover some of these methods near the end of the course, but our focus is on research. 
-We do not assume a strong background in HCI (i.e., there is no undergraduate HCI prerequisite).
+This course is explicitly not focused on the design methods commonly used in HCI practice.
+We do not assume a strong background in HCI (i.e., there is no undergraduate HCI prerequisite),
+but students seeking an introduction to the design process will be better served by CSE 440.
 
 The course readings will require preparing reports on a combination of historic framing papers and more current results.
 This will help you examine what the HCI community considers a meaningful contribution across a variety of problems, 
@@ -30,7 +26,7 @@ We will emphasize open discussion and feedback in all aspects of the course.
 
 __Contact__: Email all instructors at cse510-instr [at] cs.washington.edu
 
-__Class Time & Location__: Tuesdays & Thursdays, 10:30-11:50, CSE 403
+__Class Time & Location__: Tuesdays & Thursdays, 11:00-12:20, MGH 058
 
 __Office Hours__: By appointment, and as scheduled for project meetings.
 
@@ -55,7 +51,7 @@ __Course Staff__:
 
 ## Readings
 
-Assigned readings will often focus on research topics, generally consisting of:
+Assigned readings will focus on research topics, generally consisting of:
 
 - A _historic framing_ paper: presenting a theory, language, or understanding that can
   help in understanding and contextualizing the contributions of additional research.
@@ -102,10 +98,73 @@ Potential topics for discussion are:
 - What aspects of this work were particularly well done or effective?
 - If you had conducted this research, what would you have done differently?
 
-As we note in [Submission](#submission), reading discussion must be posted by the night before each class meeting.
-This ensures time to review discussion the next morning before class.
+Discussions will be coordinated using Canvas, with a post for each day:
 
-Feel free to continue a discussion after this, even after class.
+`<https://canvas.uw.edu/courses/1021534/>`
+
+Reading reports are due the night before each class meeting.
+This ensures time to review discussion before class the next morning.
+Submitting the day of class, just before class, or in class is therefore unacceptable, risking zero credit.
+But feel free to continue a discussion after this, even after class.
+
+## Exam
+
+A take home exam will give an opportunity to demonstrate and apply your understanding of course material in a more substantial format.
+It requires you to connect concepts across papers, serving as an evaluation of your understanding and critical thinking 
+about course concepts. If you have kept pace with the readings, you will find this exam much easier to approach
+(e.g., simply referring back to readings, rather than needing to understand them from scratch).
+You may reference any of the articles, slides, notes, discussion posts, or other material readily available on the web. 
+You may consult the course staff with any questions, but this is strictly an individual assignment (i.e., do not discuss it with others).
+
+{% comment %}
+### Download
+
+The exam is available for download: 
+
+<{{ site.url }}{{ site.baseurl }}/assignments/finalexam.pdf>
+
+### Submission
+
+Due: Uploaded by end of day Thursday, March 10, 2016.
+{% endcomment %}
+
+## Statistics Lab
+
+To aid in developing necessary skills, you will complete a statistics lab 
+in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/).
+The lab will walk you through analyzing an example data set,
+and you will then analyze two datasets from published research papers.
+
+You will gain basic familiarity with analyzing experiments using mixed‑model analyses of variance.
+Consistent with lecture, this assignment is not intended to provide complete knowledge of how to design
+or analyze experiments, which is far beyond the scope of one lecture or assignment.
+This assignment is instead focused on a pragmatic introduction to analyzing
+experiments based in designs you might later find useful.
+Please consider this assignment in the context of the material covered in lecture, as not all of it is repeated here.
+
+In addition to the lecture material and the contents of this assignment,
+you might benefit from working through the first four sections of
+Jacob Wobbrock's independent study in Practical Statistics for Human-Computer Interaction.
+
+<http://depts.washington.edu/aimgroup/proj/ps4hci/>
+
+### Download
+
+The assignment is available for download:
+
+`<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>`
+
+### Submission
+
+`Due: Uploaded before class Tuesday, February 9, 2016.`
+
+Submit a ZIP archive including your document in PDF format and any additional files:
+
+`<https://canvas.uw.edu/courses/1021534/assignments/3143422>`
+
+Submit your time journal and assignment feedback:
+
+`<https://canvas.uw.edu/courses/1021534/quizzes/880792>`
 
 ## Project
 
@@ -117,96 +176,24 @@ Dates are also linked from the course calendar.
 
 Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-<https://canvas.uw.edu/courses/1021534/discussion_topics/3155256>
-
-## Exam
-
-The exam is an opportunity to demonstrate and apply your understanding of the course material in a more substantial format.
-It requires you to connect concepts across papers, serving as an evaluation of your understanding and critical thinking 
-about concepts covered in this course. If you have kept pace with the readings, you will find it much easier to approach
-this exam (e.g., simply referring back to readings, rather than needing to understand them from scratch). 
-You may reference any of the articles, slides, notes, discussion posts, or other material readily available on the web. 
-You may consult the course staff with any questions, but this is strictly an individual assignment (i.e., do not discuss it with others).
-
-### Download
-
-The exam is available for download: 
-
-<{{ site.url }}{{ site.baseurl }}/assignments/finalexam.pdf>
-
-### Submission
-
-Due: Uploaded by end of day Thursday, March 10, 2016.
-
-## Statistics Lab
-
-To aid in developing necessary skills, you will complete a statistics lab 
-in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/).
-The lab will walk you through analyzing an example data set, 
-and you will then analyze two datasets from published research papers.
-
-You will gain basic familiarity with analyzing experiments using mixed‑model analyses of variance. 
-Consistent with lecture, this assignment is not intended to provide complete knowledge of how to design 
-or analyze experiments, which is far beyond the scope of one lecture or assignment. 
-This assignment is instead focused on a pragmatic introduction to analyzing 
-experiments based in designs you might later find useful. 
-Please consider this assignment in the context of the material covered in lecture, as not all of it is repeated here.
-
-In addition to the lecture material and the contents of this assignment, 
-you might benefit from working through the first four sections of 
-Jacob Wobbrock's independent in Practical Statistics for Human-Computer Interaction.
-
-<http://depts.washington.edu/aimgroup/proj/ps4hci/>
-
-### Download
-
-The assignment is available for download: 
-
-<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>
-
-### Submission
-
-Due: Uploaded before class Tuesday, February 9, 2016.
-
-Submit a ZIP archive including your document in PDF format and any additional files:
-
-<https://canvas.uw.edu/courses/1021534/assignments/3143422>
-
-Submit your time journal and assignment feedback:
-
-<https://canvas.uw.edu/courses/1021534/quizzes/880792>
+`<https://canvas.uw.edu/courses/1021534/discussion_topics/3155256>`
 
 ## Grading
 
 Grading will roughly correspond to:
 
-- 20%: Readings
 - 45%: Group Project
+- 20%: Readings
 - 15%: Exam
 - 10%: Statistics Lab
 - 10%: Participation
 
 Much of the grading in this course is necessarily subjective.
-We will attempt to communicate expectations and feedback throughout the course, but it is your responsibility to
-communicate with us if you feel you would like guidance in this regard.
-
-## Submission
-
-Submissions will be coordinated using Canvas:
-
-<https://canvas.uw.edu/courses/1021534/>
-
-Many assignments are due "the night before class". We will implement this in Canvas as 4:00am the day of class.
-
-This gives staff time to review submissions before class.
-Submitting the day of class, just before class, or in class is therefore unacceptable, risking zero credit.
+We will attempt to communicate expectations and feedback throughout the course,
+but it is your responsibility to communicate with us if you would like guidance in this regard.
 
 ## Contributing
 
 This course website lives on GitHub:
 
-<https://github.com/uwcse510/web-cse510-wi16> 
-
-You can submit pull requests to update the website. Instructions for building the site are available here:
-
-<{{ site.url }}{{ site.baseurl }}/development/>
+<https://github.com/uwcse510/web-cse510-sp17>
