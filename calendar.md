@@ -20,6 +20,7 @@ paper_url:
   victor2006:           https://worrydream.com/MagicInk/
   # Contributions and Methods
   wobbrock2016:         https://canvas.uw.edu/files/41501849/download?download_frd=1
+  fogarty2017:          https://canvas.uw.edu/files/41521924/download?download_frd=1
 
 
 calendar:
@@ -126,11 +127,14 @@ calendar:
     title: Contributions and Methods in HCI
     content:
       - |
-        Read the following framing paper:
+        Read the following framing papers:
 
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
         Jacob O. Wobbrock, Julie A. Kientz. [Research Contributions in Human-Computer Interaction]({{ page.paper_url.wobbrock2016 }}). Interactions, 2016.
+        </li>
+        <li class="paper" markdown="block">
+        James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017.
         </li>
         </ul>
 
@@ -138,7 +142,7 @@ calendar:
 
         Select two to review, focusing on papers that are most likely to correspond to the contribution style(s) relevant in your project.
         You should not focus on the details of these papers, but rather their organization of the research and how it is presented.
-        We surface them to provide concrete examples of the contributions, but our in-class discussion will focus on Wobbrock's paper.
+        We surface them to provide concrete examples of the contributions, but our in-class discussion will focus on the framing papers.
 
         ### Empirical Papers
         <ul class="readings" markdown="block">
@@ -215,6 +219,49 @@ calendar:
         No reading report is necessary.
   - date:  Tue Apr 11
     title: Project Proposal Presentations / Usability Evaluation Considered Harmful
+    content:
+      - |
+        Class May Run Long To Accommodate Presentations
+      - |
+        <div class="major" markdown="block">
+        Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)
+        </div>
+      - |
+        Read the following:
+
+        <ul class="readings" markdown="block">
+        <li class="paper" markdown="block">
+        `Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)](//dl.acm.org/citation.cfm?id=1357074). CHI 2008.`
+        </li>
+        </ul>
+
+        Additional optional resources:
+
+        <ul class="paper" markdown="block">
+        <li class="paper" markdown="block">
+        `Herbert A. Simon. [The Science of Design: Creating the Artificial](//www.jstor.org/stable/1511391). Design Issues Volume 4, Numbers 1 & 2.`
+        </li>
+        <li class="paper" markdown="block">
+        `Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ site.baseurl }}/readings/stokes_pasteurs_quadrant.pdf). Book Chapter.`
+        </li>
+        </ul>
+      - |
+        ### Submission
+        Submit your proposal document in PDF format:
+
+        `<https://canvas.uw.edu/courses/1021534/assignments/3121657>`
+
+        Submit your proposal presentation in PDF, PPT, or PPTX format:
+
+        `<https://canvas.uw.edu/courses/1021534/assignments/3121658>`
+      - |
+        ### Non-Standard Reading Format
+
+        Post a reading report in the appropriate thread:
+
+        `<https://canvas.uw.edu/courses/1021534/discussion_topics/3159098>`
+
+        Only one paper is assigned, so that will be the focus of your reading report.
   - date:  Thu Apr 13
     title: "Research Topic: TBD"
   - date:  Tue Apr 18
@@ -232,7 +279,9 @@ calendar:
       - |
         Class May Run Long To Accommodate Presentations
       - |
+        <div class="major" markdown="block">
         Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
+        </div>
       - |
         Submit your document in PDF format:
 
@@ -269,7 +318,9 @@ calendar:
       - |
         Class May Run Long To Accommodate Presentations
       - |
+        <div class="major" markdown="block">
         Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
+        </div>
       - |
         Submit your document in PDF format:
 
@@ -290,7 +341,9 @@ calendar:
       - |
         No Class
       - |
+        <div class="major" markdown="block">
         Due: [Final Report]({{ site.baseurl }}/assignments/project.html#final-report)
+        </div>
       - |
         Submit your document in PDF format:
 
