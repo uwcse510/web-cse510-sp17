@@ -45,12 +45,10 @@ __Course Staff__:
       </a>
     </div>
     <div class="col-md-2">
-    <
       <a href="https://homes.cs.washington.edu/~ansross/">
         <p>Annie Ross</p>
         <p><img src="{{ site.baseurl }}/images/annie_photo.jpg" width="150" alt="Annie Ross"/></p>
       </a>
-    >
     </div>
   </div>
 </html>
@@ -142,7 +140,7 @@ Due: Uploaded by end of day Thursday, March 10, 2016.
 
 ## Statistics Lab
 
-To aid in developing the necessary skills, you will complete a statistics lab 
+To aid in developing necessary skills, you will complete a statistics lab 
 in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/).
 The lab will walk you through analyzing an example data set, 
 and you will then analyze two datasets from published research papers.
