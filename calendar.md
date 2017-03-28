@@ -300,7 +300,7 @@ calendar:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
   - date:  Tue May 2
-    title: "Research Topic: TBD"
+    title: "Research Topic: TBD (Meredith Ringel Morris)"
   - date:  Thu May 4
     title: "Research Topic: TBD (Christian Holz)"
   - date:  Tue May 9
