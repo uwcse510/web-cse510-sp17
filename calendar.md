@@ -20,7 +20,19 @@ paper_url:
   victor2006:           https://worrydream.com/MagicInk/
   # Contributions and Methods
   wobbrock2016:         https://canvas.uw.edu/files/41501849/download?download_frd=1
-
+  artifact_buschek2017: https://canvas.uw.edu/files/41567552/download?download_frd=1
+  artifact_kery2017:    https://canvas.uw.edu/files/41567554/download?download_frd=1
+  dataset_yin2017:      https://canvas.uw.edu/files/41567555/download?download_frd=1
+  empirical_abdelrahman2017:  https://canvas.uw.edu/files/41567557/download?download_frd=1
+  empirical_fan2017:    https://canvas.uw.edu/files/41567558/download?download_frd=1
+  method_elsden2017:    https://canvas.uw.edu/files/41567559/download?download_frd=1
+  method_prabhakar2017: https://canvas.uw.edu/files/41567560/download?download_frd=1
+  opinion_lazar2017:    https://canvas.uw.edu/files/41567562/download?download_frd=1
+  opinion_marshall2017: https://canvas.uw.edu/files/41567563/download?download_frd=1
+  survey_velt2017:      https://canvas.uw.edu/files/41567564/download?download_frd=1
+  theory_alkhatib2017:  https://canvas.uw.edu/files/41567565/download?download_frd=1
+  theory_hornbaek2017:  https://canvas.uw.edu/files/41567566/download?download_frd=1
+  survey_schlesinger2017:  https://canvas.uw.edu/files/41568236/download?download_frd=1
 
 calendar:
   - date:  Tue Mar 28
@@ -143,47 +155,47 @@ calendar:
         ### Empirical Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Frank R. Bentley, Ying-Yu Chen. [The Composition and Use of Modern Mobile Phonebooks](//dl.acm.org/citation.cfm?id=2702182). CHI 2015.`
+        Yomna Abdelrahman, Mohamed Khamis, Stefan Schneegass, Florian Alt. [Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication]({{ paper.paper_url.empirical_abdelrahman2017 }}). CHI 2017.
         </li>
         <li class="paper" markdown="block">
-        `Paul Lapides, Apoorve Chokshi, Sheelagh Carpendale, Saul Greenberg. [News Feed: What's in it for Me?](//dl.acm.org/citation.cfm?id=2702554). CHI 2015.`
+        Min Fan, Alissa N. Antle, Maureen Hoskyn, Carman Neustaedter, Emily S. Cramer. [Why Tangibility Matters: A Design Case Study of At-Risk Children Learning to Read and Spell]({{ page.paper_url.empirical_fan2017 }}). CHI 2017.
         </li>
         </ul>
 
         ### Artifact Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Loutfouz Zaman, Wolfgang Stuerzlinger, Christian Neugebauer, Rob Woodbury, Maher Elkhaldi, Naghmi Shireen, Michael Terry. [GEM-NI: A System for Creating and Managing Alternatives in Generative Design](//dl.acm.org/citation.cfm?id=2702398). CHI 2015.`
+        Daniel Buschek, Florian Alt. [ProbUI: Generalising Touch Target Representations to Enable Declarative Gesture Deﬁnition for Probabilistic GUIs]({{ page.paper_url.artifact_buschek2017 }}). CHI 2017.
         </li>
         <li class="paper" markdown="block">
-        `John Rooksby, Mattias Rost, Alistair Morrison, Matthew Chalmers. [Pass the Ball: Enforced Turn-Taking in Activity Tracking](//dl.acm.org/citation.cfm?id=2702577). CHI 2015.`
+        Mary Beth Kery, Amber Horvath, Brad Myers. [Variolite: Supporting Exploratory Programming by Data Scientists]({{ page.paper_url.artifact_kery2017 }}). CHI 2017.
         </li>
         </ul>
 
         ### Methodological Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Anna Luusua, Juhanna Ylipulli, Marko Jurmu, Henrika Pihlajaniemi, Piia Markkanen, Timo Ojala. [Evaluation Probes](//dl.acm.org/citation.cfm?id=2702466). CHI 2015.`
+        Christopher Elsden, David Chatting, Abigail Durrant, Andrew Garbett, Bettina Nissen, John Vines, David Kirt. [On Speculative Enactments](/{{ page.paper_url.method_elsden2017 }}). CHI 2017.
         </li>
         <li class="paper" markdown="block">
-        `Kevin Chen, Haoqi Zhang. [Remote Paper Prototype Testing](//dl.acm.org/citation.cfm?id=2702423). CHI 2015.`
+        Annu Sible Prabhakar, Lucia Guerra-Reyes, Vanessa M. Kleinschmidt, Ben Jelen, Haley MacLeod, Kay Connelly, Katie A. Siek. [Investigating the Suitability of the Asynchronous, Remote, Community-based Method for Pregnant and New Mothers]({{ page.paper_url.method_prabhakar2017 }}). CHI 2017
         </li>
         </ul>
 
         ### Theoretical Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Daniel Avrahami. [The Effect of Edge Targets on Touch Performance](//dl.acm.org/citation.cfm?id=2702439). CHI 2015.`
+        Ali Alkhatib, Michael S. Bernstein, Margaret Levi. [Examining Crowd Work and Gig Work Through The Historical Lens of Piecework]({{ page.paper_url.theory_alkhatib2017 }}). CHI 2017.
         </li>
         <li class="paper" markdown="block">
-        `Xiuli Chen, Gilles Bailly, Duncan P. Brumby, Antti Oulasvirta, Andrew Howes. [The Emergence of Interactive Behavior: A Model of Rational Menu Search](//dl.acm.org/citation.cfm?id=2702483). CHI 2015.`
+        Kasper Hornbaek, Antti Oulasvirta. [What Is Interaction?]({{ page.paper_url.theory_hornbaek2017 }}). CHI 2017.
         </li>
         </ul>
 
         ### Benchmark/Dataset Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Aliaksei Miniukovich, Antonella De Angeli. [Computation of Interface Aesthetics](//dl.acm.org/citation.cfm?id=2702575). CHI 2015.`
+        Kodlee Yin, Cecilia Aragon, Sarah Evans, Katie Davis. [Where No One Has Gone Before: A Meta-Dataset of the World’s Largest Fanfiction Repository]({{ page.paper_url.dataset_yin2017 }}). CHI 2017.
         </li>
         <li class="paper" markdown="block">
         `François Bérard, Amélie Rochet-Capellan. [The Transfer of Learning as HCI Similarity: Towards an Objective Assessment of the Sensory-Motor Basis of Naturalness](//dl.acm.org/citation.cfm?id=2702359). CHI 2015.`
@@ -193,20 +205,20 @@ calendar:
         ### Survey Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Eric P.S. Baumer. [Reflective Informatics: Conceptual Dimensions for Designing Technologies of Reflection](//dl.acm.org/citation.cfm?id=2702234). CHI 2015.`
+        Ari Schlesinger, W. Keith Edwards, Rebecca E. Grinter. [Intersectional HCI: Engaging Identity through Gender, Race, and Class]({{ page.paper_url.survey_schlesinger2017 }}). CHI 2017.
         </li>
         <li class="paper" markdown="block">
-        `Audrey Desjardins, Ron Wakkary, William Odom. [Investigating Genres and Perspectives in HCI Research on the Home](//dl.acm.org/citation.cfm?id=2702540). CHI 2015.`
+        Raphael Velt, Steve Benford, Stuart Reeves. [A Survey of the Trajectories Conceptual Framework: Investigating Theory Use in HCI]({{ page.paper_url.survey_velt2017 }}). CHI 2017.
         </li>
         </ul>
 
         ### Opinion Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Shaun Lawson, Ben Kirman, Conor Linehan, Tom Feltwell, Lisa Hopkins. [Problematising Upstream Technology through Speculative Design: The Case of Quantified Cats and Dogs](//dl.acm.org/citation.cfm?id=2702260). CHI 2015.`
+        Amanda Lazar, Caroline Edasis, Anne Marie Piper. [A Critical Lens on Dementia and Design in HCI]({{ page.paper_url.opinion_lazar2017 }}). CHI 2017.
         </li>
         <li class="paper" markdown="block">
-        `Amy X. Zhang, Mark S. Ackerman, David R. Karger. [Mailing Lists: Why Are They Still Here, What's Wrong With Them, and How Can We Fix Them?](//dl.acm.org/citation.cfm?id=2702194). CHI 2015.`
+        Joe Marshall, Conor Linehan. [Misrepresentation of Health Research in Exertion Games Literature]({{ page.paper_url.opinion_marshall2017 }}). CHI 2017.
         </li>
         </ul>
       - |
