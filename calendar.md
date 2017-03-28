@@ -29,7 +29,9 @@ calendar:
     slides:
     content:
       - |
+        <div class="alert" markdown="block">
         James Away
+        </div>
       - |
         No Readings Assigned
   - date:  Thu Mar 30
@@ -221,7 +223,9 @@ calendar:
     title: Project Proposal Presentations / Usability Evaluation Considered Harmful
     content:
       - |
+        <div class="alert" markdown="block">
         Class May Run Long To Accommodate Presentations
+        </div>
       - |
         <div class="major" markdown="block">
         Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)
@@ -247,6 +251,7 @@ calendar:
         </ul>
       - |
         ### Submission
+        
         Submit your proposal document in PDF format:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3121657>`
@@ -277,12 +282,16 @@ calendar:
     title: Project Progress Presentations
     content:
       - |
+        <div class="alert" markdown="block">
         Class May Run Long To Accommodate Presentations
+        </div>
       - |
         <div class="major" markdown="block">
         Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
         </div>
       - |
+        ### Submission
+        
         Submit your document in PDF format:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164485>`
@@ -298,16 +307,20 @@ calendar:
     title: No Class - CHI 2017
     content:
       - |
-        No Readings Assigned
-      - |
+        <div class="alert" markdown="block">
         James Away, Annie Away
+        </div>
+      - |
+        No Readings Assigned
   - date:  Thu May 11
     title: No Class - CHI 2017
     content:
       - |
-        No Readings Assigned
-      - |
+        <div class="alert" markdown="block">
         James Away, Annie Away
+        </div>
+      - |
+        No Readings Assigned
   - date:  Tue May 16
     title: "Research Topic: TBD"
   - date:  Thu May 18
@@ -316,16 +329,20 @@ calendar:
     title: Project Progress Presentations
     content:
       - |
+        <div class="alert" markdown="block">
         Class May Run Long To Accommodate Presentations
+        </div>
       - |
         <div class="major" markdown="block">
         Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
         </div>
       - |
+        ### Submission
+        
         Submit your document in PDF format:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164485>`
-      - |
+
         Submit your presentation in PDF, PPT, or PPTX format:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
@@ -336,15 +353,15 @@ calendar:
   - date:  Thu Jun 1
     title: "Research Topic: TBD"
   - date:  Mon Jun 5
-    title: Final Project Due
+    title: No Class - Final Project Due
     content:
-      - |
-        No Class
       - |
         <div class="major" markdown="block">
         Due: [Final Report]({{ site.baseurl }}/assignments/project.html#final-report)
         </div>
       - |
+        ### Submission
+        
         Submit your document in PDF format:
 
         <https://canvas.uw.edu/courses/1021534/assignments/3164488>
