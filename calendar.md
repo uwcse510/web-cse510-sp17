@@ -293,7 +293,7 @@ calendar:
   - date:  Tue May 2
     title: "Research Topic: TBD"
   - date:  Thu May 4
-    title: "Research Topic: TBD"
+    title: "Research Topic: TBD (Christian Holz)"
   - date:  Tue May 9
     title: No Class - CHI 2017
     content:
