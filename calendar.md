@@ -20,6 +20,7 @@ paper_url:
   victor2006:           https://worrydream.com/MagicInk/
   # Contributions and Methods
   wobbrock2016:         https://canvas.uw.edu/files/41501849/download?download_frd=1
+  fogarty2017:          https://canvas.uw.edu/files/41521924/download?download_frd=1
   artifact_buschek2017: https://canvas.uw.edu/files/41567552/download?download_frd=1
   artifact_kery2017:    https://canvas.uw.edu/files/41567554/download?download_frd=1
   dataset_yin2017:      https://canvas.uw.edu/files/41567555/download?download_frd=1
@@ -34,13 +35,19 @@ paper_url:
   theory_hornbaek2017:  https://canvas.uw.edu/files/41567566/download?download_frd=1
   survey_schlesinger2017:  https://canvas.uw.edu/files/41568236/download?download_frd=1
 
+  
+
+
+
 calendar:
   - date:  Tue Mar 28
     title: No Class
     slides:
     content:
       - |
+        <div class="alert" markdown="block">
         James Away
+        </div>
       - |
         No Readings Assigned
   - date:  Thu Mar 30
@@ -130,7 +137,7 @@ calendar:
 
         Second, individually read at least one more of the above vision papers.
 
-        No reading report is necessary, but each picking a secondn paper benefits in-class discussion.
+        No reading report is necessary, but everyone picking a second paper benefits in-class discussion.
         Note that some of these are quite long.
         We are assigning them so that you can see these visions and explore them appropriately.
         You can and should skim according to your needs.
@@ -138,11 +145,14 @@ calendar:
     title: Contributions and Methods in HCI
     content:
       - |
-        Read the following framing paper:
+        Read the following framing papers:
 
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
         Jacob O. Wobbrock, Julie A. Kientz. [Research Contributions in Human-Computer Interaction]({{ page.paper_url.wobbrock2016 }}). Interactions, 2016.
+        </li>
+        <li class="paper" markdown="block">
+        James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017.
         </li>
         </ul>
 
@@ -150,7 +160,7 @@ calendar:
 
         Select two to review, focusing on papers that are most likely to correspond to the contribution style(s) relevant in your project.
         You should not focus on the details of these papers, but rather their organization of the research and how it is presented.
-        We surface them to provide concrete examples of the contributions, but our in-class discussion will focus on Wobbrock's paper.
+        We surface them to provide concrete examples of the contributions, but our in-class discussion will focus on the framing papers.
 
         ### Empirical Papers
         <ul class="readings" markdown="block">
@@ -227,6 +237,52 @@ calendar:
         No reading report is necessary.
   - date:  Tue Apr 11
     title: Project Proposal Presentations / Usability Evaluation Considered Harmful
+    content:
+      - |
+        <div class="alert" markdown="block">
+        Class May Run Long To Accommodate Presentations
+        </div>
+      - |
+        <div class="major" markdown="block">
+        Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)
+        </div>
+      - |
+        Read the following:
+
+        <ul class="readings" markdown="block">
+        <li class="paper" markdown="block">
+        `Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)](//dl.acm.org/citation.cfm?id=1357074). CHI 2008.`
+        </li>
+        </ul>
+
+        Additional optional resources:
+
+        <ul class="paper" markdown="block">
+        <li class="paper" markdown="block">
+        `Herbert A. Simon. [The Science of Design: Creating the Artificial](//www.jstor.org/stable/1511391). Design Issues Volume 4, Numbers 1 & 2.`
+        </li>
+        <li class="paper" markdown="block">
+        `Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ site.baseurl }}/readings/stokes_pasteurs_quadrant.pdf). Book Chapter.`
+        </li>
+        </ul>
+      - |
+        ### Submission
+        
+        Submit your proposal document in PDF format:
+
+        `<https://canvas.uw.edu/courses/1021534/assignments/3121657>`
+
+        Submit your proposal presentation in PDF, PPT, or PPTX format:
+
+        `<https://canvas.uw.edu/courses/1021534/assignments/3121658>`
+      - |
+        ### Non-Standard Reading Format
+
+        Post a reading report in the appropriate thread:
+
+        `<https://canvas.uw.edu/courses/1021534/discussion_topics/3159098>`
+
+        Only one paper is assigned, so that will be the focus of your reading report.
   - date:  Thu Apr 13
     title: "Research Topic: TBD"
   - date:  Tue Apr 18
@@ -242,10 +298,16 @@ calendar:
     title: Project Progress Presentations
     content:
       - |
+        <div class="alert" markdown="block">
         Class May Run Long To Accommodate Presentations
+        </div>
       - |
+        <div class="major" markdown="block">
         Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
+        </div>
       - |
+        ### Submission
+        
         Submit your document in PDF format:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164485>`
@@ -254,23 +316,27 @@ calendar:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
   - date:  Tue May 2
-    title: "Research Topic: TBD"
+    title: "Research Topic: TBD (Meredith Ringel Morris)"
   - date:  Thu May 4
-    title: "Research Topic: TBD"
+    title: "Research Topic: TBD (Christian Holz)"
   - date:  Tue May 9
     title: No Class - CHI 2017
     content:
       - |
-        No Readings Assigned
-      - |
+        <div class="alert" markdown="block">
         James Away, Annie Away
+        </div>
+      - |
+        No Readings Assigned
   - date:  Thu May 11
     title: No Class - CHI 2017
     content:
       - |
-        No Readings Assigned
-      - |
+        <div class="alert" markdown="block">
         James Away, Annie Away
+        </div>
+      - |
+        No Readings Assigned
   - date:  Tue May 16
     title: "Research Topic: TBD"
   - date:  Thu May 18
@@ -279,14 +345,20 @@ calendar:
     title: Project Progress Presentations
     content:
       - |
+        <div class="alert" markdown="block">
         Class May Run Long To Accommodate Presentations
+        </div>
       - |
+        <div class="major" markdown="block">
         Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
+        </div>
       - |
+        ### Submission
+        
         Submit your document in PDF format:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164485>`
-      - |
+
         Submit your presentation in PDF, PPT, or PPTX format:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
@@ -297,13 +369,15 @@ calendar:
   - date:  Thu Jun 1
     title: "Research Topic: TBD"
   - date:  Mon Jun 5
-    title: Final Project Due
+    title: No Class - Final Project Due
     content:
       - |
-        No Class
-      - |
+        <div class="major" markdown="block">
         Due: [Final Report]({{ site.baseurl }}/assignments/project.html#final-report)
+        </div>
       - |
+        ### Submission
+        
         Submit your document in PDF format:
 
         <https://canvas.uw.edu/courses/1021534/assignments/3164488>

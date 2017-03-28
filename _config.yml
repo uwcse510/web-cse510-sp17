@@ -1,7 +1,7 @@
 name:       'CSE 510'
 
 brandimage: ''
-brandtext:  'CSE 510 - Advanced Topics in HCI - Winter 2016'
+brandtext:  'CSE 510 - Advanced Topics in HCI - Spring 2017'
 
 lessc: node_modules/.bin/lessc
 

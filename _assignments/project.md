@@ -1,18 +1,20 @@
 ---
 layout: base/bar/bar-sidebar-none
 title: "Project"
+
+due:
+  proposal:     Tuesday, April 11, 2017
+  milestone1:   Thursday, April 27, 2017
+  milestone2:   Thursday, May 23, 2017
+  finalreport:  Monday, June 5, 2017
 ---
-
-`This page is still being migrated and developed.`
-
-`Information here is likely suggestive of the final page, but remains subject to change.`
 
 ## Overview
 
 A course project will be a major component of your work.
 This will require hands-on experience with HCI, while remaining open to different possibilities.
 
-Because you are still new to HCI research, we do not necessarily expect you to produce publishable work
+Because you are still new to HCI research, we do not necessarily expect you to produce publishable work.
 Instead, the expectation is that you will do something _interesting_.
 It is then up to you to define _interesting_ according to what you want to accomplish in this project,
 seeking appropriate feedback from staff.
@@ -21,7 +23,7 @@ For example, you might choose to:
 - Design and implement a new piece of HCI technology.
 - Design and execute an appropriately compelling study with HCI research implications.
 - Perform a feasibility analysis or pilot study to inform future research plans.
-- Replicate an existing technology or study.
+- Replicate an existing study or technology.
 - Execute a sufficiently interesting design problem (i.e., focusing on design without regard to research novelty).
 
 We expect most students will do projects in groups of three. 
@@ -33,10 +35,10 @@ Working in groups is a necessary part of doing research, and also important for 
 Project deliverables are defined in terms of a _proposal_, a pair of _self-defined milestones_, and a _final report_.
 These are due:
 
-- _Proposal_:       Thursday, January 14, 2016
-- _Milestone_:      Thursday, January 28, 2016
-- _Milestone_:      Thursday, February 25, 2016
-- _Final Report_:   Monday, March 14, 2016
+- _Proposal_:       {{ page.due.proposal }}
+- _Milestone_:      {{ page.due.milestone1 }}
+- _Milestone_:      {{ page.due.milestone2 }}
+- _Final Report_:   {{ page.due.finalreport }}
 
 ### Proposal
 
@@ -44,22 +46,24 @@ Your proposal will define your initial plan for this project.
 You can and should update this plan based on feedback, progress, and findings.
 But the proposal needs to demonstrate a robust initial plan for your project.
 
-Course staff will be available to meet and provide feedback on Friday, January 8.
-Meeting is optional.
-You can also email to request feedback or to inquire about arranging another time to meet.
-Sign up for the reserved meeting times here:
-
-<http://doodle.com/poll/6gfw4v8wcqqqfg6i>
-
 You are welcome and even encouraged to align your project with your research goals outside this course.
 However, it is critical to define what you will specifically accomplish in the course project.
 The course project must stand on its own.
 
 Proposals consist of a short document and a short in-class presentation.
 
+#### Early Feedback
+
+`Course staff will be available to meet and provide feedback on Friday, January 8.`
+Meeting is optional.
+You can also email to request feedback or to inquire about arranging another time to meet.
+Sign up for the reserved meeting times here:
+
+`<http://doodle.com/poll/6gfw4v8wcqqqfg6i>`
+
 #### Document
 
-Prepare a one-page document addressing the following points:
+Prepare a 1 page document addressing the following points:
 
 - What makes the project interesting? What is the problem or research question?
 
@@ -87,23 +91,27 @@ Prepare a one-page document addressing the following points:
 
 #### Presentation
 
+Prepare a presentation consisting of 3 to 4 slides.
+
 Each group will give a short in-class presentation of their proposal.
 This is an opportunity for feedback from staff and classmates.
 Your presentation should cover the same information as the document.
 
 This is an opportunity for feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.
 
+`#### Samples`
+
 #### Submission
 
-Due: Uploaded the night before class Thursday, January 14, 2016
+Due: Uploaded the night before class {{ page.due.proposal }}
 
-Submit your document in PDF format.
+Submit your proposal document in PDF format:
 
-<https://canvas.uw.edu/courses/1021534/assignments/3121657>
+`<https://canvas.uw.edu/courses/1021534/assignments/3121657>`
 
-Submit your presentation as no more than three slides in PDF, PPT, or PPTX format.
+Submit your proposal presentation in PDF, PPT, or PPTX format:
 
-<https://canvas.uw.edu/courses/1021534/assignments/3121658>
+`<https://canvas.uw.edu/courses/1021534/assignments/3121658>`
 
 ### Milestone Reports
 
@@ -115,13 +123,15 @@ Milestone reports consist of a short document and a short in-class presentation.
 
 #### Document
 
-Prepare a one-page document addressing the following points:
+Prepare a 1 page document addressing the following points:
 
 - What you have done for this milestone, discussing current progress relative to previously stated plans.
 - What you will do before your next milestone, including any adaptations based on your status or findings.
 - Any areas where you could use advice or are blocked.
 
 #### Presentation
+
+Prepare a presentation consisting of 3 to 4 slides.
 
 Each group will give a short in-class presentation of their proposal.
 This is an opportunity for feedback from staff and classmates.
@@ -131,18 +141,20 @@ This is an opportunity for feedback, not a formal presentation. Please be approp
 
 #### Submission
 
-Due: Uploaded the night before class Thursday, January 28, 2016 and Thursday, February 25, 2016.
+Due: Uploaded the night before class {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.
 
-Milestone 1 document: <https://canvas.uw.edu/courses/1021534/assignments/3143418>
-Milestone 1 presentation: <https://canvas.uw.edu/courses/1021534/assignments/3143419>
-Milestone 2 document: <https://canvas.uw.edu/courses/1021534/assignments/3164485>
-Milestone 2 presentation: <https://canvas.uw.edu/courses/1021534/assignments/3164486>
+- Milestone 1 document: `<https://canvas.uw.edu/courses/1021534/assignments/3143418>`
+- Milestone 1 presentation: `<https://canvas.uw.edu/courses/1021534/assignments/3143419>`
+- Milestone 2 document: `<https://canvas.uw.edu/courses/1021534/assignments/3164485>`
+- Milestone 2 presentation: `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
 
-Submit your document in PDF format.
+Submit your milestone document in PDF format.
 
-Submit your presentation in PDF, PPT, or PPTX format.
+Submit your milestone presentation in PDF, PPT, or PPTX format.
 
 ### Final Report
+
+Prepare a final report that is 4 to 10 pages in length, excluding references.
 
 Your final report should be presented in the same general structure as the papers you read this quarter:
 
@@ -152,28 +164,26 @@ Your final report should be presented in the same general structure as the paper
 - Description / Methods / Results
 - Discussion / Future Work / Conclusion
 
+Write according to the content you have.
+Be appropriately thorough and precise in your presentation, but do not needlessly pad your text.
+
 Format your report according to the SIGCHI Document Format:
 
 <https://sigchi.github.io/Document-Formats/>
-
-Your report should be 4 to 10 pages in length, excluding references.
-
-Write according to the content you have.
-Be appropriately thorough and precise in your presentation, but do not needlessly pad your text.
 
 Additional guidance regarding effective paper writing can be found in:
 
 <div class="paper" markdown="block">
 Jacob O. Wobbrock.
-[Catchy Titles are Good: But Avoid Being Cute](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf).
+`[Catchy Titles are Good: But Avoid Being Cute](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf).`
 Writing Advice, White Paper, 2015.
 </div>
 
 #### Submission
 
-Due: Uploaded by the end of day Monday, March 14, 2016.
+Due: Uploaded by the end of day {{ page.due.finalreport }}.
 
-<https://canvas.uw.edu/courses/1021534/assignments/3164488>
+`<https://canvas.uw.edu/courses/1021534/assignments/3164488>`
 
-Submit your document in PDF format.
+Submit your final report document in PDF format.
 
