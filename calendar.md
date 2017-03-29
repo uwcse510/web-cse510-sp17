@@ -4,36 +4,36 @@ title: Calendar
 
 paper_url:
   # History
-  grudin2012:           https://canvas.uw.edu/files/41501895/download?download_frd=1
+  grudin2012:                   https://canvas.uw.edu/files/41501895/download?download_frd=1
   # Visions
-  bederson1994:         https://canvas.uw.edu/files/41501949/download?download_frd=1
-  bush1945:             https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
-  fitts1954:            https://canvas.uw.edu/files/41501950/download?download_frd=1
-  hollan1992:           https://canvas.uw.edu/files/41502180/download?download_frd=1
-  ishii1997:            https://canvas.uw.edu/files/41502181/download?download_frd=1
-  pinhanez2001:         https://canvas.uw.edu/files/41501944/download?download_frd=1
-  want1992:             https://canvas.uw.edu/files/41501946/download?download_frd=1
-  want2002:             https://canvas.uw.edu/files/41501947/download?download_frd=1
-  weiser1991:           https://canvas.uw.edu/files/41501948/download?download_frd=1
-  wellner1993:          https://canvas.uw.edu/files/41502182/download?download_frd=1
+  bederson1994:                 https://canvas.uw.edu/files/41501949/download?download_frd=1
+  bush1945:                     https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+  fitts1954:                    https://canvas.uw.edu/files/41501950/download?download_frd=1
+  hollan1992:                   https://canvas.uw.edu/files/41502180/download?download_frd=1
+  ishii1997:                    https://canvas.uw.edu/files/41502181/download?download_frd=1
+  pinhanez2001:                 https://canvas.uw.edu/files/41501944/download?download_frd=1
+  want1992:                     https://canvas.uw.edu/files/41501946/download?download_frd=1
+  want2002:                     https://canvas.uw.edu/files/41501947/download?download_frd=1
+  weiser1991:                   https://canvas.uw.edu/files/41501948/download?download_frd=1
+  wellner1993:                  https://canvas.uw.edu/files/41502182/download?download_frd=1
   wellner1993_video:    http://www.youtube.com/watch?v=S8lCetZ_57g
-  victor2006:           https://worrydream.com/MagicInk/
+  victor2006:                   https://worrydream.com/MagicInk/
   # Contributions and Methods
-  wobbrock2016:         https://canvas.uw.edu/files/41501849/download?download_frd=1
-  fogarty2017:          https://canvas.uw.edu/files/41521924/download?download_frd=1
-  artifact_buschek2017: https://canvas.uw.edu/files/41567552/download?download_frd=1
-  artifact_kery2017:    https://canvas.uw.edu/files/41567554/download?download_frd=1
-  dataset_yin2017:      https://canvas.uw.edu/files/41567555/download?download_frd=1
-  empirical_abdelrahman2017:  https://canvas.uw.edu/files/41567557/download?download_frd=1
-  empirical_fan2017:    https://canvas.uw.edu/files/41567558/download?download_frd=1
-  method_elsden2017:    https://canvas.uw.edu/files/41567559/download?download_frd=1
-  method_prabhakar2017: https://canvas.uw.edu/files/41567560/download?download_frd=1
-  opinion_lazar2017:    https://canvas.uw.edu/files/41567562/download?download_frd=1
-  opinion_marshall2017: https://canvas.uw.edu/files/41567563/download?download_frd=1
-  survey_velt2017:      https://canvas.uw.edu/files/41567564/download?download_frd=1
-  theory_alkhatib2017:  https://canvas.uw.edu/files/41567565/download?download_frd=1
-  theory_hornbaek2017:  https://canvas.uw.edu/files/41567566/download?download_frd=1
-  survey_schlesinger2017:  https://canvas.uw.edu/files/41568236/download?download_frd=1
+  wobbrock2016:                 https://canvas.uw.edu/files/41501849/download?download_frd=1
+  fogarty2017:                  https://canvas.uw.edu/files/41521924/download?download_frd=1
+  artifact_buschek2017:         https://canvas.uw.edu/files/41567552/download?download_frd=1
+  artifact_kery2017:            https://canvas.uw.edu/files/41567554/download?download_frd=1
+  dataset_yin2017:              https://canvas.uw.edu/files/41567555/download?download_frd=1
+  empirical_abdelrahman2017:    https://canvas.uw.edu/files/41567557/download?download_frd=1
+  empirical_fan2017:            https://canvas.uw.edu/files/41567558/download?download_frd=1
+  method_elsden2017:            https://canvas.uw.edu/files/41567559/download?download_frd=1
+  method_prabhakar2017:         https://canvas.uw.edu/files/41567560/download?download_frd=1
+  opinion_lazar2017:            https://canvas.uw.edu/files/41567562/download?download_frd=1
+  opinion_marshall2017:         https://canvas.uw.edu/files/41567563/download?download_frd=1
+  survey_velt2017:              https://canvas.uw.edu/files/41567564/download?download_frd=1
+  theory_alkhatib2017:          https://canvas.uw.edu/files/41567565/download?download_frd=1
+  theory_hornbaek2017:          https://canvas.uw.edu/files/41567566/download?download_frd=1
+  survey_schlesinger2017:       https://canvas.uw.edu/files/41568236/download?download_frd=1
 
   
 
