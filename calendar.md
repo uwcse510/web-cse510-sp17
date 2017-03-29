@@ -363,11 +363,11 @@ calendar:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
   - date:  Thu May 25
-    title: "Research Topic: TBD"
+    title: "Research Topic: TBD (Hrvoje Benko)"
   - date:  Tue May 30
     title: "Research Topic: TBD (Daniela Roesner)"
   - date:  Thu Jun 1
-    title: "Research Topic: TBD"
+    title: "Research Topic: TBD (Andrew Ko)"
   - date:  Mon Jun 5
     title: No Class - Final Project Due
     content:
