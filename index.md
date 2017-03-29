@@ -178,6 +178,8 @@ Some sample project ideas, gathered from faculty and researchers, have been made
 
 <https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>
 
+You can also use that discussion identify potential project partners and to post your own ideas.
+
 ## Grading
 
 Grading will roughly correspond to:
