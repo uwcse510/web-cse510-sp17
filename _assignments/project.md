@@ -30,6 +30,12 @@ We expect most students will do projects in groups of three.
 We will consider groups of two, and very strongly discourage individuals.
 Working in groups is a necessary part of doing research, and also important for the logistics of this course.
 
+Some sample project ideas, gathered from faculty and researchers, have been made available here:
+
+<https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>
+
+You can also use that discussion identify potential project partners and to post your own ideas.
+
 ## Project Deliverables
 
 Project deliverables are defined in terms of a _proposal_, a pair of _self-defined milestones_, and a _final report_.

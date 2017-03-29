@@ -122,7 +122,7 @@ calendar:
 
         First, organize into groups of 2 or 3 to briefly present one of the above vision papers.
 
-        `<http://docs.google.com/document/d/1PwswUeGCwjvzdnHlu4Ei6NMkLlSeaQy6Zom7nRCu1M0/edit?usp=sharing>`
+        <https://docs.google.com/document/d/1OmF1SCxn9RkQOcyILzEAE7qsFZ-SligXZ-lreuCgAhM/edit?usp=sharing>
 
         It is critical to remember most people will not have read the paper you are presenting.
         It is therefore your responsibility to explain the vision.
@@ -135,7 +135,7 @@ calendar:
 
         Submit your presentation as 3 to 4 slides in PDF, PPT, or PPTX format:
 
-        `<https://canvas.uw.edu/courses/1021534/assignments/3121308>`
+        <https://canvas.uw.edu/courses/1138154/assignments/3691207>
 
         Second, individually read at least one more of the above vision papers.
 
