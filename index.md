@@ -176,7 +176,7 @@ Dates are also linked from the course calendar.
 
 Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-`<https://canvas.uw.edu/courses/1021534/discussion_topics/3155256>`
+<https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>
 
 ## Grading
 
