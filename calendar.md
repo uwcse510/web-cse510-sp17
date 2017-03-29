@@ -24,6 +24,7 @@ paper_url:
   artifact_buschek2017:         https://canvas.uw.edu/files/41567552/download?download_frd=1
   artifact_kery2017:            https://canvas.uw.edu/files/41567554/download?download_frd=1
   dataset_yin2017:              https://canvas.uw.edu/files/41567555/download?download_frd=1
+  dataset_deka2016:             https://canvas.uw.edu/files/41587812/download?download_frd=1
   empirical_abdelrahman2017:    https://canvas.uw.edu/files/41567557/download?download_frd=1
   empirical_fan2017:            https://canvas.uw.edu/files/41567558/download?download_frd=1
   method_elsden2017:            https://canvas.uw.edu/files/41567559/download?download_frd=1
@@ -34,6 +35,7 @@ paper_url:
   theory_alkhatib2017:          https://canvas.uw.edu/files/41567565/download?download_frd=1
   theory_hornbaek2017:          https://canvas.uw.edu/files/41567566/download?download_frd=1
   survey_schlesinger2017:       https://canvas.uw.edu/files/41568236/download?download_frd=1
+
 
   
 
@@ -208,7 +210,7 @@ calendar:
         Kodlee Yin, Cecilia Aragon, Sarah Evans, Katie Davis. [Where No One Has Gone Before: A Meta-Dataset of the World’s Largest Fanfiction Repository]({{ page.paper_url.dataset_yin2017 }}). CHI 2017.
         </li>
         <li class="paper" markdown="block">
-        `François Bérard, Amélie Rochet-Capellan. [The Transfer of Learning as HCI Similarity: Towards an Objective Assessment of the Sensory-Motor Basis of Naturalness](//dl.acm.org/citation.cfm?id=2702359). CHI 2015.`
+        Biplab Deka, Zifeng Huang, Ranjitha Kumar. [TERICA: Interaction Mining Mobile Apps]({{ page.paper_url.dataset_deka2016 }}). UIST 2016.
         </li>
         </ul>
 
