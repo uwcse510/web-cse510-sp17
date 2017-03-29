@@ -30,8 +30,11 @@ We expect most students will do projects in groups of three.
 We will consider groups of two, and very strongly discourage individuals.
 Working in groups is a necessary part of doing research, and also important for the logistics of this course.
 
-Coordination of project groups, as well as some project ideas, can be found here:
+Some sample project ideas, gathered from faculty and researchers, have been made available here:
+
 <https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>
+
+You can also use that discussion identify potential project partners and to post your own ideas.
 
 ## Project Deliverables
 
