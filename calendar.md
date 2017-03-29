@@ -286,10 +286,10 @@ calendar:
 
         Only one paper is assigned, so that will be the focus of your reading report.
   - date:  Thu Apr 13
-    title: "Research Topic: TBD"
+    title: "Research Topic: Human Performance"
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
   - date:  Tue Apr 18
-    title: "Research Topic: TBD"
+    title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
   - date:  Thu Apr 20
     title: "Research Topic: Design Tools"
@@ -320,10 +320,10 @@ calendar:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
   - date:  Tue May 2
-    title: "Research Topic: TBD"
+    title: "Research Topic: Accessibility"
     guest: "[Meredith Ringel Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
   - date:  Thu May 4
-    title: "Research Topic: TBD"
+    title: "Research Topic: Continuous Physiological Sensing"
     guest: "[Christian Holz](http://www.christianholz.net/)"
   - date:  Tue May 9
     title: No Class - CHI 2017
@@ -344,7 +344,7 @@ calendar:
       - |
         No Readings Assigned
   - date:  Tue May 16
-    title: "Research Topic: TBD"
+    title: "Research Topic: Human-Centered Machine Learning"
     guest: "[Saleema Amershi](https://research.microsoft.com/en-us/um/people/samershi/)"
   - date:  Thu May 18
     title: "Research Topic: Interface Toolkits"
@@ -370,13 +370,13 @@ calendar:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
   - date:  Thu May 25
-    title: "Research Topic: TBD"
+    title: "Research Topic: Interacting with Cameras"
     guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"
   - date:  Tue May 30
-    title: "Research Topic: TBD"
+    title: "Research Topic: Design as Inquiry"
     guest: "[Daniela Roesner](http://www.danielarosner.com/)"
   - date:  Thu Jun 1
-    title: "Research Topic: TBD"
+    title: "Research Topic: Interacting with Code"
     guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
   - date:  Mon Jun 5
     title: No Class - Final Project Due
