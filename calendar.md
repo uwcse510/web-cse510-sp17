@@ -4,36 +4,36 @@ title: Calendar
 
 paper_url:
   # History
-  grudin2012:           https://canvas.uw.edu/files/41501895/download?download_frd=1
+  grudin2012:                   https://canvas.uw.edu/files/41501895/download?download_frd=1
   # Visions
-  bederson1994:         https://canvas.uw.edu/files/41501949/download?download_frd=1
-  bush1945:             https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
-  fitts1954:            https://canvas.uw.edu/files/41501950/download?download_frd=1
-  hollan1992:           https://canvas.uw.edu/files/41502180/download?download_frd=1
-  ishii1997:            https://canvas.uw.edu/files/41502181/download?download_frd=1
-  pinhanez2001:         https://canvas.uw.edu/files/41501944/download?download_frd=1
-  want1992:             https://canvas.uw.edu/files/41501946/download?download_frd=1
-  want2002:             https://canvas.uw.edu/files/41501947/download?download_frd=1
-  weiser1991:           https://canvas.uw.edu/files/41501948/download?download_frd=1
-  wellner1993:          https://canvas.uw.edu/files/41502182/download?download_frd=1
+  bederson1994:                 https://canvas.uw.edu/files/41501949/download?download_frd=1
+  bush1945:                     https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+  fitts1954:                    https://canvas.uw.edu/files/41501950/download?download_frd=1
+  hollan1992:                   https://canvas.uw.edu/files/41502180/download?download_frd=1
+  ishii1997:                    https://canvas.uw.edu/files/41502181/download?download_frd=1
+  pinhanez2001:                 https://canvas.uw.edu/files/41501944/download?download_frd=1
+  want1992:                     https://canvas.uw.edu/files/41501946/download?download_frd=1
+  want2002:                     https://canvas.uw.edu/files/41501947/download?download_frd=1
+  weiser1991:                   https://canvas.uw.edu/files/41501948/download?download_frd=1
+  wellner1993:                  https://canvas.uw.edu/files/41502182/download?download_frd=1
   wellner1993_video:    http://www.youtube.com/watch?v=S8lCetZ_57g
-  victor2006:           https://worrydream.com/MagicInk/
+  victor2006:                   https://worrydream.com/MagicInk/
   # Contributions and Methods
-  wobbrock2016:         https://canvas.uw.edu/files/41501849/download?download_frd=1
-  fogarty2017:          https://canvas.uw.edu/files/41521924/download?download_frd=1
-  artifact_buschek2017: https://canvas.uw.edu/files/41567552/download?download_frd=1
-  artifact_kery2017:    https://canvas.uw.edu/files/41567554/download?download_frd=1
-  dataset_yin2017:      https://canvas.uw.edu/files/41567555/download?download_frd=1
-  empirical_abdelrahman2017:  https://canvas.uw.edu/files/41567557/download?download_frd=1
-  empirical_fan2017:    https://canvas.uw.edu/files/41567558/download?download_frd=1
-  method_elsden2017:    https://canvas.uw.edu/files/41567559/download?download_frd=1
-  method_prabhakar2017: https://canvas.uw.edu/files/41567560/download?download_frd=1
-  opinion_lazar2017:    https://canvas.uw.edu/files/41567562/download?download_frd=1
-  opinion_marshall2017: https://canvas.uw.edu/files/41567563/download?download_frd=1
-  survey_velt2017:      https://canvas.uw.edu/files/41567564/download?download_frd=1
-  theory_alkhatib2017:  https://canvas.uw.edu/files/41567565/download?download_frd=1
-  theory_hornbaek2017:  https://canvas.uw.edu/files/41567566/download?download_frd=1
-  survey_schlesinger2017:  https://canvas.uw.edu/files/41568236/download?download_frd=1
+  wobbrock2016:                 https://canvas.uw.edu/files/41501849/download?download_frd=1
+  fogarty2017:                  https://canvas.uw.edu/files/41521924/download?download_frd=1
+  artifact_buschek2017:         https://canvas.uw.edu/files/41567552/download?download_frd=1
+  artifact_kery2017:            https://canvas.uw.edu/files/41567554/download?download_frd=1
+  dataset_yin2017:              https://canvas.uw.edu/files/41567555/download?download_frd=1
+  empirical_abdelrahman2017:    https://canvas.uw.edu/files/41567557/download?download_frd=1
+  empirical_fan2017:            https://canvas.uw.edu/files/41567558/download?download_frd=1
+  method_elsden2017:            https://canvas.uw.edu/files/41567559/download?download_frd=1
+  method_prabhakar2017:         https://canvas.uw.edu/files/41567560/download?download_frd=1
+  opinion_lazar2017:            https://canvas.uw.edu/files/41567562/download?download_frd=1
+  opinion_marshall2017:         https://canvas.uw.edu/files/41567563/download?download_frd=1
+  survey_velt2017:              https://canvas.uw.edu/files/41567564/download?download_frd=1
+  theory_alkhatib2017:          https://canvas.uw.edu/files/41567565/download?download_frd=1
+  theory_hornbaek2017:          https://canvas.uw.edu/files/41567566/download?download_frd=1
+  survey_schlesinger2017:       https://canvas.uw.edu/files/41568236/download?download_frd=1
 
   
 
@@ -285,10 +285,12 @@ calendar:
         Only one paper is assigned, so that will be the focus of your reading report.
   - date:  Thu Apr 13
     title: "Research Topic: TBD"
+    guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
   - date:  Tue Apr 18
     title: "Research Topic: TBD"
+    guest: "[Kurtis Heimerl](http://kurti.sh/)"
   - date:  Thu Apr 20
-    title: "Research Topic: TBD"
+    title: "Research Topic: Design Tools"
   - date:  Tue Apr 25
     title: Experimental Design and Analysis
     content:
@@ -316,9 +318,11 @@ calendar:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
   - date:  Tue May 2
-    title: "Research Topic: TBD (Meredith Ringel Morris)"
+    title: "Research Topic: TBD"
+    guest: "[Meredith Ringel Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
   - date:  Thu May 4
-    title: "Research Topic: TBD (Christian Holz)"
+    title: "Research Topic: TBD"
+    guest: "[Christian Holz](http://www.christianholz.net/)"
   - date:  Tue May 9
     title: No Class - CHI 2017
     content:
@@ -339,8 +343,9 @@ calendar:
         No Readings Assigned
   - date:  Tue May 16
     title: "Research Topic: TBD"
+    guest: "[Saleema Amershi](https://research.microsoft.com/en-us/um/people/samershi/)"
   - date:  Thu May 18
-    title: "Research Topic: TBD"
+    title: "Research Topic: Interface Toolkits"
   - date:  Tue May 23
     title: Project Progress Presentations
     content:
@@ -363,11 +368,14 @@ calendar:
 
         `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
   - date:  Thu May 25
-    title: "Research Topic: TBD (Hrvoje Benko)"
+    title: "Research Topic: TBD"
+    guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"
   - date:  Tue May 30
-    title: "Research Topic: TBD (Daniela Roesner)"
+    title: "Research Topic: TBD"
+    guest: "[Daniela Roesner](http://www.danielarosner.com/)"
   - date:  Thu Jun 1
-    title: "Research Topic: TBD (Andrew Ko)"
+    title: "Research Topic: TBD"
+    guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
   - date:  Mon Jun 5
     title: No Class - Final Project Due
     content:
@@ -393,6 +401,11 @@ calendar:
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## {{ daycurrent.title }}
+{% if daycurrent.guest %}
+<div class="guest" markdown="block">
+Guest: {{ daycurrent.guest | liquify }}
+</div>
+{% endif %}
 
 {% for contentcurrent in daycurrent.content %}
 <div class="directions" markdown="block">
