@@ -365,7 +365,7 @@ calendar:
   - date:  Thu May 25
     title: "Research Topic: TBD"
   - date:  Tue May 30
-    title: "Research Topic: TBD"
+    title: "Research Topic: TBD (Daniela Roesner)"
   - date:  Thu Jun 1
     title: "Research Topic: TBD"
   - date:  Mon Jun 5
