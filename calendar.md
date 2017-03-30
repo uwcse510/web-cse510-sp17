@@ -154,7 +154,7 @@ calendar:
         Jacob O. Wobbrock, Julie A. Kientz. [Research Contributions in Human-Computer Interaction]({{ page.paper_url.wobbrock2016 }}). Interactions, 2016.
         </li>
         <li class="paper" markdown="block">
-        James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). To be presented at the CHI 2017 Workshop on #HCI. Tools: Strategies and Best Practices for Designing, Evaluating, and Sharing Technical HCI Toolkits.
+        James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017 Workshop on #HCI.Tools: Strategies and Best Practices for Designing, Evaluating, and Sharing Technical HCI Toolkits.
         </li>
         </ul>
 
