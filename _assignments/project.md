@@ -60,12 +60,12 @@ Proposals consist of a short document and a short in-class presentation.
 
 #### Early Feedback
 
-`Course staff will be available to meet and provide feedback on Friday, January 8.`
+Course staff will be available to meet and provide early feedback on Monday April 3 and Friday April 7.
 Meeting is optional.
 You can also email to request feedback or to inquire about arranging another time to meet.
 Sign up for the reserved meeting times here:
 
-`<http://doodle.com/poll/6gfw4v8wcqqqfg6i>`
+<http://doodle.com/poll/f6cha4mq2ttns2ra>
 
 #### Document
 
