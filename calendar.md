@@ -154,7 +154,7 @@ calendar:
         Jacob O. Wobbrock, Julie A. Kientz. [Research Contributions in Human-Computer Interaction]({{ page.paper_url.wobbrock2016 }}). Interactions, 2016.
         </li>
         <li class="paper" markdown="block">
-        James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017.
+        James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017 Workshop on #HCI.Tools: Strategies and Best Practices for Designing, Evaluating, and Sharing Technical HCI Toolkits.
         </li>
         </ul>
 
@@ -210,7 +210,7 @@ calendar:
         Kodlee Yin, Cecilia Aragon, Sarah Evans, Katie Davis. [Where No One Has Gone Before: A Meta-Dataset of the World’s Largest Fanfiction Repository]({{ page.paper_url.dataset_yin2017 }}). CHI 2017.
         </li>
         <li class="paper" markdown="block">
-        Biplab Deka, Zifeng Huang, Ranjitha Kumar. [TERICA: Interaction Mining Mobile Apps]({{ page.paper_url.dataset_deka2016 }}). UIST 2016.
+        Biplab Deka, Zifeng Huang, Ranjitha Kumar. [ERICA: Interaction Mining Mobile Apps]({{ page.paper_url.dataset_deka2016 }}). UIST 2016.
         </li>
         </ul>
 
