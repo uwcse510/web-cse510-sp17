@@ -36,6 +36,21 @@ Some sample project ideas, gathered from faculty and researchers, have been made
 
 You can also use that discussion identify potential project partners and to post your own ideas.
 
+## Samples
+
+Sample project deliverables from prior offerings have been made available here:
+
+<https://canvas.uw.edu/courses/1138154/files/folder/project_samples>
+
+## Early Feedback
+
+Course staff will be available to meet and provide early feedback on Monday April 3 and Friday April 7.
+Meeting is optional.
+You can also email to request feedback or to inquire about arranging another time to meet.
+Sign up for the reserved meeting times here:
+
+<http://doodle.com/poll/f6cha4mq2ttns2ra>
+
 ## Project Deliverables
 
 Project deliverables are defined in terms of a _proposal_, a pair of _self-defined milestones_, and a _final report_.
@@ -57,15 +72,6 @@ However, it is critical to define what you will specifically accomplish in the c
 The course project must stand on its own.
 
 Proposals consist of a short document and a short in-class presentation.
-
-#### Early Feedback
-
-Course staff will be available to meet and provide early feedback on Monday April 3 and Friday April 7.
-Meeting is optional.
-You can also email to request feedback or to inquire about arranging another time to meet.
-Sign up for the reserved meeting times here:
-
-<http://doodle.com/poll/f6cha4mq2ttns2ra>
 
 #### Document
 
@@ -104,8 +110,6 @@ This is an opportunity for feedback from staff and classmates.
 Your presentation should cover the same information as the document.
 
 This is an opportunity for feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.
-
-`#### Samples`
 
 #### Submission
 
