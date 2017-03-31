@@ -120,7 +120,7 @@ calendar:
 
         Each student has two responsibilities.
 
-        First, organize into groups of 2 or 3 to briefly present one of the above vision papers.
+        First, organize into groups of 2 to briefly present one of the above vision papers.
 
         <https://docs.google.com/document/d/1OmF1SCxn9RkQOcyILzEAE7qsFZ-SligXZ-lreuCgAhM/edit?usp=sharing>
 
