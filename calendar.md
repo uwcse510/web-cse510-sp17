@@ -286,12 +286,17 @@ calendar:
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
     reading_framing:
       - |
+        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction](//www.yorku.ca/mack/HCI.html). Human-Computer Interaction 7, 1. 
     reading_instances:
       - |
+        I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices](//doi.org/10.1145/365024.365028). CHI 2001.
       - |
+        Georg Apitz, François Guimbretière. [CrossY: A Crossing-Based Drawing Application](//doi.org/10.1145/1029632.1029635). UIST 2004. 
     reading_resources:
       - |
+        Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks](//doi.org/10.1145/258549.258760). CHI 1997.
       - |
+        Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law](//doi.org/10.1145/1357054.1357306). CHI 2008.
   - date:  Tue Apr 18
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
@@ -426,12 +431,12 @@ calendar:
     guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"
     reading_framing:
       - |
-        Victoria Bellotti, Maribeth Back, W. Keith Edwards, Rebecca E. Grinter, Austin Henderson, Cristina Lopes. [Making Sense of Sensing Systems: Five Questions for Designers and Researchers](http://doi.acm.org/10.1145/503376.503450). CHI 2002. 
+        Victoria Bellotti, Maribeth Back, W. Keith Edwards, Rebecca E. Grinter, Austin Henderson, Cristina Lopes. [Making Sense of Sensing Systems: Five Questions for Designers and Researchers](//doi.acm.org/10.1145/503376.503450). CHI 2002. 
     reading_instances:
       - |
-        Harrison, C., Benko, H., and Wilson, A. [OmniTouch: Wearable Multitouch Interaction Everywhere](https://doi.org/10.1145/2047196.2047255). UIST 2011.
+        Chris Harrison, Hrvoje Benko, Andrew D. Wilson. [OmniTouch: Wearable Multitouch Interaction Everywhere](//doi.org/10.1145/2047196.2047255). UIST 2011.
       - |
-        Wilson, A. and Benko. H. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association](https://doi.org/10.1145/2663204.2663270). ICMI 2014.
+        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association](//doi.org/10.1145/2663204.2663270). ICMI 2014.
   - date:  Tue May 30
     title: "Research Topic: Design as Inquiry"
     guest: "[Daniela Roesner](http://www.danielarosner.com/)"
