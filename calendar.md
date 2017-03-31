@@ -297,6 +297,7 @@ calendar:
         Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks](//doi.org/10.1145/258549.258760). CHI 1997.
       - |
         Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law](//doi.org/10.1145/1357054.1357306). CHI 2008.
+      discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757333"
   - date:  Tue Apr 18
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
@@ -437,6 +438,7 @@ calendar:
         Chris Harrison, Hrvoje Benko, Andrew D. Wilson. [OmniTouch: Wearable Multitouch Interaction Everywhere](//doi.org/10.1145/2047196.2047255). UIST 2011.
       - |
         Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association](//doi.org/10.1145/2663204.2663270). ICMI 2014.
+      discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757338"
   - date:  Tue May 30
     title: "Research Topic: Design as Inquiry"
     guest: "[Daniela Roesner](http://www.danielarosner.com/)"
