@@ -57,13 +57,9 @@ calendar:
     content:
       - |
         No Readings Assigned
+    reading_resources:
       - |
-        Additional optional resources:
-        <ul class="paper" markdown="block">
-        <li class="paper" markdown="block">
         Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]({{ page.paper_url.grudin2012 }}). Book Chapter.
-        </li>
-        </ul>
   - date:  Tue Apr 4
     title: Visions of Human-Computer Interaction
     content:
@@ -288,11 +284,27 @@ calendar:
   - date:  Thu Apr 13
     title: "Research Topic: Human Performance"
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
+    reading_framing:
+      - |
+    reading_instances:
+      - |
+      - |
+    reading_resources:
+      - |
+      - |
   - date:  Tue Apr 18
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
   - date:  Thu Apr 20
     title: "Research Topic: Design Tools"
+    reading_framing:
+      - |
+        `Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice](//dl.acm.org/citation.cfm?id=1466542). Human-Computer Interaction Journal, 2003.`
+    reading_instances:
+      - |
+        `Scott R. Klemmer, Mark W. Newman, Ryan Farrell, Mark Bilezikjian, James A. Landay. [The Designers’ Outpost: A Tangible Interface for Collaborative Web Site Design]({{ site.baseurl }}/readings/klemmer2001.pdf). UIST 2001.`
+      - |
+        `Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis](//dl.acm.org/citation.cfm?id=1166300). UIST 2006.`
   - date:  Tue Apr 25
     title: Experimental Design and Analysis
     content:
@@ -348,6 +360,14 @@ calendar:
     guest: "[Saleema Amershi](https://research.microsoft.com/en-us/um/people/samershi/)"
   - date:  Thu May 18
     title: "Research Topic: Interface Toolkits"
+    reading_framing:
+      - |
+        `Brad Myers, Scott E. Hudson, Randy Pausch. [Past, Present, and Future of User Interface Software Tools](//dx.doi.org/10.1145/344949.344959). TOCHI 2000.`
+    reading_instances:
+      - |
+        `Michael Bostock, Vadim Ogievetsky, Jeffrey Heer. [D<sup>3</sup>: Data-Driven Documents](//dx.doi.org/10.1109/TVCG.2011.185). InfoVis 2011.`
+      - |
+        `Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure](//dx.doi.org/10.1145/1753326.1753554). CHI 2010.`
   - date:  Tue May 23
     title: Project Progress Presentations
     content:
@@ -414,6 +434,40 @@ Guest: {{ daycurrent.guest | liquify }}
 {{ contentcurrent | liquify }}
 </div>
 {% endfor %}
+
+{% if daycurrent.reading_framing %}
+Read the framing paper:
+<ul class="paper" markdown="block">
+{% for readingcurrent in daycurrent.reading_framing %}
+<li class="paper" markdown="block">
+{{ readingcurrent | liquify }}
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+{% if daycurrent.reading_instances %}
+Select one of these to read:
+<ul class="paper" markdown="block">
+{% for readingcurrent in daycurrent.reading_instances %}
+<li class="paper" markdown="block">
+{{ readingcurrent | liquify }}
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+{% if daycurrent.reading_resources %}
+Additional optional resources:
+<ul class="paper" markdown="block">
+{% for readingcurrent in daycurrent.reading_resources %}
+<li class="paper" markdown="block">
+{{ readingcurrent | liquify }}
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+
 </div>
 </div>
 {% endfor %}
