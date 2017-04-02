@@ -36,15 +36,10 @@ paper_url:
   theory_hornbaek2017:          https://canvas.uw.edu/files/41567566/download?download_frd=1
   survey_schlesinger2017:       https://canvas.uw.edu/files/41568236/download?download_frd=1
 
-
-  
-
-
-
 calendar:
   - date:  Tue Mar 28
+    collapse: true
     title: No Class
-    slides:
     content:
       - |
         <div class="alert" markdown="block">
@@ -53,6 +48,7 @@ calendar:
       - |
         No Readings Assigned
   - date:  Thu Mar 30
+    collapse: true
     title: Course Overview and HCI History
     content:
       - |
@@ -284,6 +280,7 @@ calendar:
   - date:  Thu Apr 13
     title: "Research Topic: Human Performance"
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
+    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757333"
     reading_framing:
       - |
         I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction](//www.yorku.ca/mack/HCI.html). Human-Computer Interaction 7, 1. 
@@ -297,18 +294,17 @@ calendar:
         Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks](//doi.org/10.1145/258549.258760). CHI 1997.
       - |
         Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law](//doi.org/10.1145/1357054.1357306). CHI 2008.
-      discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757333"
   - date:  Tue Apr 18
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
-    reading_framing:
-      - |
-    reading_instances:
-      - |
-      - |
-    reading_resources:
-      - |
-      - |
+#    reading_framing:
+#      - |
+#    reading_instances:
+#      - |
+#      - |
+#    reading_resources:
+#      - |
+#      - |
   - date:  Thu Apr 20
     title: "Research Topic: Design Tools"
     reading_framing:
@@ -348,25 +344,25 @@ calendar:
   - date:  Tue May 2
     title: "Research Topic: Accessibility"
     guest: "[Meredith Ringel Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
-    reading_framing:
-      - |
-    reading_instances:
-      - |
-      - |
-    reading_resources:
-      - |
-      - |
+#    reading_framing:
+#      - |
+#    reading_instances:
+#      - |
+#      - |
+#    reading_resources:
+#      - |
+#      - |
   - date:  Thu May 4
     title: "Research Topic: Continuous Physiological Sensing"
     guest: "[Christian Holz](http://www.christianholz.net/)"
-    reading_framing:
-      - |
-    reading_instances:
-      - |
-      - |
-    reading_resources:
-      - |
-      - |
+#    reading_framing:
+#      - |
+#    reading_instances:
+#      - |
+#      - |
+#    reading_resources:
+#      - |
+#      - |
   - date:  Tue May 9
     title: No Class - CHI 2017
     content:
@@ -388,14 +384,14 @@ calendar:
   - date:  Tue May 16
     title: "Research Topic: Human-Centered Machine Learning"
     guest: "[Saleema Amershi](https://research.microsoft.com/en-us/um/people/samershi/)"
-    reading_framing:
-      - |
-    reading_instances:
-      - |
-      - |
-    reading_resources:
-      - |
-      - |
+#    reading_framing:
+#      - |
+#    reading_instances:
+#      - |
+#      - |
+#    reading_resources:
+#      - |
+#      - |
   - date:  Thu May 18
     title: "Research Topic: Interface Toolkits"
     reading_framing:
@@ -430,6 +426,7 @@ calendar:
   - date:  Thu May 25
     title: "Research Topic: Interacting with Cameras"
     guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"
+    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757338"
     reading_framing:
       - |
         Victoria Bellotti, Maribeth Back, W. Keith Edwards, Rebecca E. Grinter, Austin Henderson, Cristina Lopes. [Making Sense of Sensing Systems: Five Questions for Designers and Researchers](//doi.acm.org/10.1145/503376.503450). CHI 2002. 
@@ -438,29 +435,28 @@ calendar:
         Chris Harrison, Hrvoje Benko, Andrew D. Wilson. [OmniTouch: Wearable Multitouch Interaction Everywhere](//doi.org/10.1145/2047196.2047255). UIST 2011.
       - |
         Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association](//doi.org/10.1145/2663204.2663270). ICMI 2014.
-      discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757338"
   - date:  Tue May 30
     title: "Research Topic: Design as Inquiry"
     guest: "[Daniela Roesner](http://www.danielarosner.com/)"
-    reading_framing:
-      - |
-    reading_instances:
-      - |
-      - |
-    reading_resources:
-      - |
-      - |
+#    reading_framing:
+#      - |
+#    reading_instances:
+#      - |
+#      - |
+#    reading_resources:
+#      - |
+#      - |
   - date:  Thu Jun 1
     title: "Research Topic: Interacting with Code"
     guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
-    reading_framing:
-      - |
-    reading_instances:
-      - |
-      - |
-    reading_resources:
-      - |
-      - |
+#    reading_framing:
+#      - |
+#    reading_instances:
+#      - |
+#      - |
+#    reading_resources:
+#      - |
+#      - |
   - date:  Mon Jun 5
     title: No Class - Final Project Due
     content:
@@ -480,7 +476,7 @@ calendar:
 <div class="calendar">
 
 {% for daycurrent in page.calendar %}
-<div class="row">
+<div class="row" id="day-{{ daycurrent.date | slugify }}">
 <div class="col-md-2" markdown="block">
 ## {{ daycurrent.date }}
 </div>
@@ -490,6 +486,11 @@ calendar:
 <div class="guest" markdown="block">
 Guest: {{ daycurrent.guest | liquify }}
 </div>
+{% endif %}
+
+{% if daycurrent.collapse %}
+[<a data-toggle="collapse" href="#collapse-{{ daycurrent.date | slugify }}">Expand Archived Content</a>\]
+<div class="collapse" id="collapse-{{ daycurrent.date | slugify }}" markdown="block">
 {% endif %}
 
 {% for contentcurrent in daycurrent.content %}
@@ -529,6 +530,10 @@ Additional optional resources:
 </li>
 {% endfor %}
 </ul>
+{% endif %}
+
+{% if daycurrent.collapse %}
+</div>
 {% endif %}
 
 </div>
