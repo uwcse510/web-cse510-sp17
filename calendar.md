@@ -47,9 +47,10 @@ calendar:
         </div>
       - |
         No Readings Assigned
-  - date:  Thu Mar 30
-    collapse: true
-    title: Course Overview and HCI History
+  - date:       Thu Mar 30
+    collapse:   true
+    slides:     "https://canvas.uw.edu/files/41659818/download?download_frd=1"
+    title:      Course Overview and HCI History
     content:
       - |
         No Readings Assigned
@@ -479,6 +480,10 @@ calendar:
 <div class="row" id="day-{{ daycurrent.date | slugify }}">
 <div class="col-md-2" markdown="block">
 ## {{ daycurrent.date }}
+
+{% if daycurrent.slides %}
+\[[Slides]({{ daycurrent.slides }})\]
+{% endif %}
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## {{ daycurrent.title }}
