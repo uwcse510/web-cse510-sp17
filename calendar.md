@@ -56,6 +56,11 @@ calendar:
     reading_resources:
       - |
         Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]({{ page.paper_url.grudin2012 }}). Book Chapter.
+  - date:  Mon Apr 3
+    title: Project Feedback Meetings
+    content:
+      - |
+        <http://doodle.com/poll/f6cha4mq2ttns2ra>
   - date:  Tue Apr 4
     title: Visions of Human-Computer Interaction
     content:
@@ -229,6 +234,11 @@ calendar:
         ### Non-Standard Reading Format
 
         No reading report is necessary.
+  - date:  Fri Apr 7
+    title: Project Feedback Meetings
+    content:
+      - |
+        <http://doodle.com/poll/f6cha4mq2ttns2ra>
   - date:  Tue Apr 11
     title: Project Proposal Presentations / Usability Evaluation Considered Harmful
     content:
@@ -458,7 +468,7 @@ calendar:
 #      - |
 #      - |
   - date:  Mon Jun 5
-    title: No Class - Final Project Due
+    title: Final Project Due
     content:
       - |
         <div class="major" markdown="block">
