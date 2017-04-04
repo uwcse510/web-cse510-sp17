@@ -78,6 +78,8 @@ calendar:
       - |
         <http://doodle.com/poll/f6cha4mq2ttns2ra>
   - date:  Tue Apr 4
+    collapse: true
+    slides:     "https://canvas.uw.edu/courses/1138154/files/folder/slides/l02-visions"
     title: Visions of Human-Computer Interaction
     content:
       - |
