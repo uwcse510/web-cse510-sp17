@@ -245,7 +245,7 @@ calendar:
     content:
       - |
         <div class="alert" markdown="block">
-        Class May Run Long To Accommodate Presentations
+        Class Will Start at 10:30
         </div>
       - |
         <div class="major" markdown="block">
@@ -336,7 +336,7 @@ calendar:
     content:
       - |
         <div class="alert" markdown="block">
-        Class May Run Long To Accommodate Presentations
+        Class Will Start at 10:30
         </div>
       - |
         <div class="major" markdown="block">
@@ -418,7 +418,7 @@ calendar:
     content:
       - |
         <div class="alert" markdown="block">
-        Class May Run Long To Accommodate Presentations
+        Class Will Start at 10:30
         </div>
       - |
         <div class="major" markdown="block">
