@@ -67,6 +67,7 @@ calendar:
       - |
         Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]({{ page.paper_url.grudin2012 }}). Book Chapter.
   - date:  Mon Apr 3
+    collapse: true
     title: Project Feedback Meetings
     content:
       - |
