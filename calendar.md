@@ -49,6 +49,10 @@ paper_url:
   bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
   harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
   wilson2014:                   https://canvas.uw.edu/files/41703284/download?download_frd=1
+  # ICTD
+  toyama2011:                   https://canvas.uw.edu/files/41704822/download?download_frd=1
+  heimerl2014:                  https://canvas.uw.edu/files/41704820/download?download_frd=1
+  smyth2010:                    https://canvas.uw.edu/files/41704821/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -334,11 +338,14 @@ calendar:
   - date:  Tue Apr 18
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
-#    reading_framing:
-#      - |
-#    reading_instances:
-#      - |
-#      - |
+    reading_framing:
+      - |
+        Kentaro Toyama. [Technology as Amplifier in International Development]({{ page.paper_url.toyama2011 }}). iConference 2011.
+    reading_instances:
+      - |
+        Kurtis Heimerl, , Shaddi Hasan, Kashif Ali, Tapan Parikh, Eric Brewer. [A Longitudinal Study of Local, Sustainable, Small-Scale Cellular Networks]( {{ page.paper_url.heimerl2014}}). ICTD 2013 Special Issue. Information Technologies & International Development 11(1). (2014).
+      - |
+        Thomas N. Smyth. [Where There's a Will There's a Way: Mobile Media Sharing in Urban India]( {{ page.paper_url.smyth2010}}). CHI 2010.
 #    reading_resources:
 #      - |
 #      - |
