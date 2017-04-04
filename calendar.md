@@ -16,7 +16,7 @@ paper_url:
   want2002:                     https://canvas.uw.edu/files/41501947/download?download_frd=1
   weiser1991:                   https://canvas.uw.edu/files/41501948/download?download_frd=1
   wellner1993:                  https://canvas.uw.edu/files/41502182/download?download_frd=1
-  wellner1993_video:    http://www.youtube.com/watch?v=S8lCetZ_57g
+  wellner1993_video:            http://www.youtube.com/watch?v=S8lCetZ_57g
   victor2006:                   https://worrydream.com/MagicInk/
   # Contributions and Methods
   wobbrock2016:                 https://canvas.uw.edu/files/41501849/download?download_frd=1
@@ -36,12 +36,19 @@ paper_url:
   theory_hornbaek2017:          https://canvas.uw.edu/files/41567566/download?download_frd=1
   survey_schlesinger2017:       https://canvas.uw.edu/files/41568236/download?download_frd=1
   # Usability Evaluation Considered Harmful
+  stokes1997:                   https://canvas.uw.edu/files/41702911/download?download_frd=1
+  simon1998:                    https://canvas.uw.edu/files/41702495/download?download_frd=1
+  greenberg2008:                https://canvas.uw.edu/files/41702480/download?download_frd=1
   # Human Performance
   accot1992:                    https://canvas.uw.edu/files/41702724/download?download_frd=1
   apitz2004:                    https://canvas.uw.edu/files/41702725/download?download_frd=1
   mackenzie1992:                https://canvas.uw.edu/files/41702726/download?download_frd=1
   mackenzie2001:                https://canvas.uw.edu/files/41702727/download?download_frd=1
   wobbrock2008:                 https://canvas.uw.edu/files/41702728/download?download_frd=1                                        
+  # Interacting with Cameras
+  bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
+  harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
+  wilson2014:                   https://canvas.uw.edu/files/41703284/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -80,6 +87,8 @@ calendar:
       - |
         <http://doodle.com/poll/f6cha4mq2ttns2ra>
   - date:  Tue Apr 4
+    collapse: true
+    slides:     "https://canvas.uw.edu/courses/1138154/files/folder/slides/l02-visions"
     title: Visions of Human-Computer Interaction
     content:
       - |
@@ -273,7 +282,7 @@ calendar:
 
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)](//dl.acm.org/citation.cfm?id=1357074). CHI 2008.`
+        Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)]({{ page.paper_url.greenberg2008 }}). CHI 2008.
         </li>
         </ul>
 
@@ -281,10 +290,10 @@ calendar:
 
         <ul class="paper" markdown="block">
         <li class="paper" markdown="block">
-        `Herbert A. Simon. [The Science of Design: Creating the Artificial](//www.jstor.org/stable/1511391). Design Issues Volume 4, Numbers 1 & 2.`
+        Herbert A. Simon. [The Science of Design: Creating the Artificial]({{ page.paper_url.simon1998 }}). Design Issues Volume 4, Numbers 1 & 2.
         </li>
         <li class="paper" markdown="block">
-        `Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ site.baseurl }}/readings/stokes_pasteurs_quadrant.pdf). Book Chapter.`
+        Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ page.paper_url.stokes1997 }}). Book Chapter.
         </li>
         </ul>
       - |
@@ -457,12 +466,12 @@ calendar:
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757338"
     reading_framing:
       - |
-        Victoria Bellotti, Maribeth Back, W. Keith Edwards, Rebecca E. Grinter, Austin Henderson, Cristina Lopes. [Making Sense of Sensing Systems: Five Questions for Designers and Researchers](//doi.acm.org/10.1145/503376.503450). CHI 2002. 
+        Victoria Bellotti, Maribeth Back, W. Keith Edwards, Rebecca E. Grinter, Austin Henderson, Cristina Lopes. [Making Sense of Sensing Systems: Five Questions for Designers and Researchers]({{ page.paper_url.bellotti2002 }}). CHI 2002. 
     reading_instances:
       - |
-        Chris Harrison, Hrvoje Benko, Andrew D. Wilson. [OmniTouch: Wearable Multitouch Interaction Everywhere](//doi.org/10.1145/2047196.2047255). UIST 2011.
+        Chris Harrison, Hrvoje Benko, Andrew D. Wilson. [OmniTouch: Wearable Multitouch Interaction Everywhere]({{ page.paper_url.harrison2011 }}). UIST 2011.
       - |
-        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association](//doi.org/10.1145/2663204.2663270). ICMI 2014.
+        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
   - date:  Tue May 30
     title: "Research Topic: Design as Inquiry"
     guest: "[Daniela Roesner](http://www.danielarosner.com/)"
