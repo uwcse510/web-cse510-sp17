@@ -35,6 +35,11 @@ paper_url:
   theory_alkhatib2017:          https://canvas.uw.edu/files/41567565/download?download_frd=1
   theory_hornbaek2017:          https://canvas.uw.edu/files/41567566/download?download_frd=1
   survey_schlesinger2017:       https://canvas.uw.edu/files/41568236/download?download_frd=1
+  # Interacting with Cameras
+  bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
+  harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
+  wilson2014:                   https://canvas.uw.edu/files/41703284/download?download_frd=1
+
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -450,12 +455,12 @@ calendar:
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757338"
     reading_framing:
       - |
-        Victoria Bellotti, Maribeth Back, W. Keith Edwards, Rebecca E. Grinter, Austin Henderson, Cristina Lopes. [Making Sense of Sensing Systems: Five Questions for Designers and Researchers](//doi.acm.org/10.1145/503376.503450). CHI 2002. 
+        Victoria Bellotti, Maribeth Back, W. Keith Edwards, Rebecca E. Grinter, Austin Henderson, Cristina Lopes. [Making Sense of Sensing Systems: Five Questions for Designers and Researchers]({{ page.paper_url.bellotti2002 }}). CHI 2002. 
     reading_instances:
       - |
-        Chris Harrison, Hrvoje Benko, Andrew D. Wilson. [OmniTouch: Wearable Multitouch Interaction Everywhere](//doi.org/10.1145/2047196.2047255). UIST 2011.
+        Chris Harrison, Hrvoje Benko, Andrew D. Wilson. [OmniTouch: Wearable Multitouch Interaction Everywhere]({{ page.paper_url.harrison2011 }}). UIST 2011.
       - |
-        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association](//doi.org/10.1145/2663204.2663270). ICMI 2014.
+        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
   - date:  Tue May 30
     title: "Research Topic: Design as Inquiry"
     guest: "[Daniela Roesner](http://www.danielarosner.com/)"
