@@ -7,6 +7,14 @@ due:
   milestone1:   Thursday, April 27, 2017
   milestone2:   Thursday, May 23, 2017
   finalreport:  Monday, June 5, 2017
+canvas:
+  proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
+  proposal_doc:     https://canvas.uw.edu/courses/1138154/assignments/3697851
+  milestone1_pres:  https://canvas.uw.edu/courses/1138154/assignments/3697944
+  milestone1_doc:   https://canvas.uw.edu/courses/1138154/assignments/3697946
+  milestone2_pres:  https://canvas.uw.edu/courses/1138154/assignments/3697955
+  milestone2_doc:   https://canvas.uw.edu/courses/1138154/assignments/3697972
+  final_rep:        https://canvas.uw.edu/courses/1138154/assignments/3697976
 ---
 
 ## Overview
@@ -117,11 +125,11 @@ Due: Uploaded the night before class {{ page.due.proposal }}
 
 Submit your proposal document in PDF format:
 
-`<https://canvas.uw.edu/courses/1021534/assignments/3121657>`
+{{ page.canvas.proposal_doc}}
 
 Submit your proposal presentation in PDF, PPT, or PPTX format:
 
-`<https://canvas.uw.edu/courses/1021534/assignments/3121658>`
+{{ page.canvas.proposal_pres }}
 
 ### Milestone Reports
 
@@ -153,10 +161,10 @@ This is an opportunity for feedback, not a formal presentation. Please be approp
 
 Due: Uploaded the night before class {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.
 
-- Milestone 1 document: `<https://canvas.uw.edu/courses/1021534/assignments/3143418>`
-- Milestone 1 presentation: `<https://canvas.uw.edu/courses/1021534/assignments/3143419>`
-- Milestone 2 document: `<https://canvas.uw.edu/courses/1021534/assignments/3164485>`
-- Milestone 2 presentation: `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
+- Milestone 1 document: {{ page.canvas.milestone1_doc }}
+- Milestone 1 presentation: {{ page.canvast.milestone1_pres }}
+- Milestone 2 document: {{ page.canvas.milestone2_doc }}
+- Milestone 2 presentation: { page.canvast.milestone2_pres }}
 
 Submit your milestone document in PDF format.
 
@@ -193,7 +201,7 @@ Writing Advice, White Paper, 2015.
 
 Due: Uploaded by the end of day {{ page.due.finalreport }}.
 
-`<https://canvas.uw.edu/courses/1021534/assignments/3164488>`
+{{ page.canvas.final_rep }}
 
 Submit your final report document in PDF format.
 

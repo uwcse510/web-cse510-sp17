@@ -100,7 +100,7 @@ Potential topics for discussion are:
 
 Discussions will be coordinated using Canvas, with a post for each day:
 
-`<https://canvas.uw.edu/courses/1021534/>`
+<//canvas.uw.edu/courses/1138154>
 
 Reading reports are due the night before each class meeting.
 This ensures time to review discussion before class the next morning.
