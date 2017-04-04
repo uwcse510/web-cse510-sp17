@@ -35,11 +35,14 @@ paper_url:
   theory_alkhatib2017:          https://canvas.uw.edu/files/41567565/download?download_frd=1
   theory_hornbaek2017:          https://canvas.uw.edu/files/41567566/download?download_frd=1
   survey_schlesinger2017:       https://canvas.uw.edu/files/41568236/download?download_frd=1
+  # Usability Evaluation Considered Harmful
+  stokes1997:                   https://canvas.uw.edu/files/41702911/download?download_frd=1
+  simon1998:                    https://canvas.uw.edu/files/41702495/download?download_frd=1
+  greenberg2008:                https://canvas.uw.edu/files/41702480/download?download_frd=1
   # Interacting with Cameras
   bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
   harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
   wilson2014:                   https://canvas.uw.edu/files/41703284/download?download_frd=1
-
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -273,7 +276,7 @@ calendar:
 
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)](//dl.acm.org/citation.cfm?id=1357074). CHI 2008.`
+        Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)]({{ page.paper_url.greenberg2008 }}). CHI 2008.
         </li>
         </ul>
 
@@ -281,10 +284,10 @@ calendar:
 
         <ul class="paper" markdown="block">
         <li class="paper" markdown="block">
-        `Herbert A. Simon. [The Science of Design: Creating the Artificial](//www.jstor.org/stable/1511391). Design Issues Volume 4, Numbers 1 & 2.`
+        Herbert A. Simon. [The Science of Design: Creating the Artificial]({{ page.paper_url.simon1998 }}). Design Issues Volume 4, Numbers 1 & 2.
         </li>
         <li class="paper" markdown="block">
-        `Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ site.baseurl }}/readings/stokes_pasteurs_quadrant.pdf). Book Chapter.`
+        Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ page.paper_url.stokes1997 }}). Book Chapter.
         </li>
         </ul>
       - |
