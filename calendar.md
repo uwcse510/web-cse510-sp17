@@ -331,7 +331,7 @@ calendar:
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
     reading_framing:
       - |
-        Kentaro Toyama. [Technology as Amplifier in International Development]({{ page.paper_url.toyama2011 }}). iConference, 2011.
+        Kentaro Toyama. [Technology as Amplifier in International Development]({{ page.paper_url.toyama2011 }}). iConference 2011.
     reading_instances:
       - |
         Kurtis Heimerl, , Shaddi Hasan, Kashif Ali, Tapan Parikh, Eric Brewer. [A Longitudinal Study of Local, Sustainable, Small-Scale Cellular Networks]( {{ page.paper_url.heimerl2014}}). ICTD 2013 Special Issue. Information Technologies & International Development 11(1). (2014).
