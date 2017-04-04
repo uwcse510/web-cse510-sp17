@@ -36,6 +36,15 @@ paper_url:
   theory_hornbaek2017:          https://canvas.uw.edu/files/41567566/download?download_frd=1
   survey_schlesinger2017:       https://canvas.uw.edu/files/41568236/download?download_frd=1
 
+canvas:
+  proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
+  proposal_doc:     https://canvas.uw.edu/courses/1138154/assignments/3697851
+  milestone1_pres:  https://canvas.uw.edu/courses/1138154/assignments/3697944
+  milestone1_doc:   https://canvas.uw.edu/courses/1138154/assignments/3697946
+  milestone2_pres:  https://canvas.uw.edu/courses/1138154/assignments/3697955
+  milestone2_doc:   https://canvas.uw.edu/courses/1138154/assignments/3697972
+  final_rep:        https://canvas.uw.edu/courses/1138154/assignments/3697976
+
 calendar:
   - date:  Tue Mar 28
     collapse: true
@@ -275,11 +284,11 @@ calendar:
         
         Submit your proposal document in PDF format:
 
-        `<https://canvas.uw.edu/courses/1021534/assignments/3121657>`
+        {{ page.canvas.proposal_doc }}
 
         Submit your proposal presentation in PDF, PPT, or PPTX format:
 
-        `<https://canvas.uw.edu/courses/1021534/assignments/3121658>`
+        {{ page.canvas.proposal_pres }}
       - |
         ### Non-Standard Reading Format
 
@@ -347,11 +356,11 @@ calendar:
         
         Submit your document in PDF format:
 
-        `<https://canvas.uw.edu/courses/1021534/assignments/3164485>`
+        {{ page.cavas.milestone1_doc }}
       - |
         Submit your presentation in PDF, PPT, or PPTX format:
 
-        `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
+        {{ page.canvas.milestone1_pres }}
   - date:  Tue May 2
     title: "Research Topic: Accessibility"
     guest: "[Meredith Ringel Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
@@ -429,11 +438,11 @@ calendar:
         
         Submit your document in PDF format:
 
-        `<https://canvas.uw.edu/courses/1021534/assignments/3164485>`
+        {{ page.canvas.milestone2_doc }}
 
         Submit your presentation in PDF, PPT, or PPTX format:
 
-        `<https://canvas.uw.edu/courses/1021534/assignments/3164486>`
+        {{ page.canvas.milestone2_pres }}
   - date:  Thu May 25
     title: "Research Topic: Interacting with Cameras"
     guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"
@@ -480,7 +489,7 @@ calendar:
         
         Submit your document in PDF format:
 
-        <https://canvas.uw.edu/courses/1021534/assignments/3164488>
+        {{ page.canvas.final_rep }}
 ---
 
 <html>
