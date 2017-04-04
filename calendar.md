@@ -16,7 +16,7 @@ paper_url:
   want2002:                     https://canvas.uw.edu/files/41501947/download?download_frd=1
   weiser1991:                   https://canvas.uw.edu/files/41501948/download?download_frd=1
   wellner1993:                  https://canvas.uw.edu/files/41502182/download?download_frd=1
-  wellner1993_video:    http://www.youtube.com/watch?v=S8lCetZ_57g
+  wellner1993_video:            http://www.youtube.com/watch?v=S8lCetZ_57g
   victor2006:                   https://worrydream.com/MagicInk/
   # Contributions and Methods
   wobbrock2016:                 https://canvas.uw.edu/files/41501849/download?download_frd=1
@@ -39,6 +39,12 @@ paper_url:
   stokes1997:                   https://canvas.uw.edu/files/41702911/download?download_frd=1
   simon1998:                    https://canvas.uw.edu/files/41702495/download?download_frd=1
   greenberg2008:                https://canvas.uw.edu/files/41702480/download?download_frd=1
+  # Human Performance
+  accot1992:                    https://canvas.uw.edu/files/41702724/download?download_frd=1
+  apitz2004:                    https://canvas.uw.edu/files/41702725/download?download_frd=1
+  mackenzie1992:                https://canvas.uw.edu/files/41702726/download?download_frd=1
+  mackenzie2001:                https://canvas.uw.edu/files/41702727/download?download_frd=1
+  wobbrock2008:                 https://canvas.uw.edu/files/41702728/download?download_frd=1                                        
   # Interacting with Cameras
   bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
   harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
@@ -314,17 +320,17 @@ calendar:
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757333"
     reading_framing:
       - |
-        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction](//www.yorku.ca/mack/HCI.html). Human-Computer Interaction 7, 1. 
+        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.macKenzie1992 }}). Human-Computer Interaction 7, 1. 1992. 
     reading_instances:
       - |
-        I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices](//doi.org/10.1145/365024.365028). CHI 2001.
+        I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices]({{ page.paper_url.mackenzie2001 }}). CHI 2001.
       - |
-        Georg Apitz, François Guimbretière. [CrossY: A Crossing-Based Drawing Application](//doi.org/10.1145/1029632.1029635). UIST 2004. 
+        Georg Apitz, François Guimbretière. [CrossY: A Crossing-Based Drawing Application]({{ page.paper_url.apitz2004 }}). UIST 2004. 
     reading_resources:
       - |
-        Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks](//doi.org/10.1145/258549.258760). CHI 1997.
+        Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks]({{ page.paper_url.accot1997 }}). CHI 1997.
       - |
-        Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law](//doi.org/10.1145/1357054.1357306). CHI 2008.
+        Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ paper.page_url.wobbrock2008 }}). CHI 2008.
   - date:  Tue Apr 18
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
