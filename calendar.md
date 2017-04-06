@@ -54,6 +54,12 @@ paper_url:
   heimerl2014:                  https://canvas.uw.edu/files/41704820/download?download_frd=1
   smyth2010:                    https://canvas.uw.edu/files/41704821/download?download_frd=1
 
+  # Design Tools
+  hartmann2006:                 https://canvas.uw.edu/files/41744439/download?download_frd=1
+  klemmer2001:                  https://canvas.uw.edu/files/41744440/download?download_frd=1
+  newman2003:                   https://canvas.uw.edu/files/41744441/download?download_frd=1
+  dt_canvas:                    https://canvas.uw.edu/courses/1138154/discussion_topics/3769837
+
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
   proposal_doc:     https://canvas.uw.edu/courses/1138154/assignments/3697851
@@ -351,14 +357,15 @@ calendar:
 #      - |
   - date:  Thu Apr 20
     title: "Research Topic: Design Tools"
+    discussion: {{ page.paper_url.dt_canvas }}
     reading_framing:
       - |
-        `Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice](//dl.acm.org/citation.cfm?id=1466542). Human-Computer Interaction Journal, 2003.`
+        Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice]({{ page.paper_url.newman2003 }}). Human-Computer Interaction Journal, 2003.
     reading_instances:
       - |
-        `Scott R. Klemmer, Mark W. Newman, Ryan Farrell, Mark Bilezikjian, James A. Landay. [The Designers’ Outpost: A Tangible Interface for Collaborative Web Site Design]({{ site.baseurl }}/readings/klemmer2001.pdf). UIST 2001.`
+        Scott R. Klemmer, Mark W. Newman, Ryan Farrell, Mark Bilezikjian, James A. Landay. [The Designers’ Outpost: A Tangible Interface for Collaborative Web Site Design]({{ page.paper_url.klemmer2001 }}). UIST 2001.
       - |
-        `Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis](//dl.acm.org/citation.cfm?id=1166300). UIST 2006.`
+        Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis]({{ page.paper_url.hartmann2006 }}). UIST 2006.
   - date:  Tue Apr 25
     title: Experimental Design and Analysis
     content:
