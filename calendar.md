@@ -44,7 +44,8 @@ paper_url:
   apitz2004:                    https://canvas.uw.edu/files/41702725/download?download_frd=1
   mackenzie1992:                https://canvas.uw.edu/files/41702726/download?download_frd=1
   mackenzie2001:                https://canvas.uw.edu/files/41702727/download?download_frd=1
-  wobbrock2008:                 https://canvas.uw.edu/files/41702728/download?download_frd=1                                        
+  wobbrock2008:                 https://canvas.uw.edu/files/41702728/download?download_frd=1
+  hp_canvas:                    https://canvas.uw.edu/courses/1138154/discussion_topics/3757333                                   
   # Interacting with Cameras
   bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
   harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
@@ -53,6 +54,7 @@ paper_url:
   toyama2011:                   https://canvas.uw.edu/files/41704822/download?download_frd=1
   heimerl2014:                  https://canvas.uw.edu/files/41704820/download?download_frd=1
   smyth2010:                    https://canvas.uw.edu/files/41704821/download?download_frd=1
+  ictd_canvas:                  https://canvas.uw.edu/courses/1138154/discussion_topics/3769760
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -319,9 +321,21 @@ calendar:
 
         Only one paper is assigned, so that will be the focus of your reading report.
   - date:  Thu Apr 13
+    title: "Research Topic: Information and Communication Technologies and Development"
+    guest: "[Kurtis Heimerl](http://kurti.sh/)"
+    discussion: {{ page.paper_url.ictd_canvas }}
+    reading_framing:
+      - |
+        Kentaro Toyama. [Technology as Amplifier in International Development]({{ page.paper_url.toyama2011 }}). iConference 2011.
+    reading_instances:
+      - |
+        Kurtis Heimerl, , Shaddi Hasan, Kashif Ali, Tapan Parikh, Eric Brewer. [A Longitudinal Study of Local, Sustainable, Small-Scale Cellular Networks]( {{ page.paper_url.heimerl2014}}). ICTD 2013 Special Issue. Information Technologies & International Development 11(1). (2014).
+      - |
+        Thomas N. Smyth. [Where There's a Will There's a Way: Mobile Media Sharing in Urban India]( {{ page.paper_url.smyth2010}}). CHI 2010.
+  - date:  Tue Apr 18
     title: "Research Topic: Human Performance"
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
-    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757333"
+    discussion: {{ page.paper_url.hp_canvas }}
     reading_framing:
       - |
         I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.macKenzie1992 }}). Human-Computer Interaction 7, 1. 1992. 
@@ -334,21 +348,7 @@ calendar:
       - |
         Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks]({{ page.paper_url.accot1997 }}). CHI 1997.
       - |
-        Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ paper.page_url.wobbrock2008 }}). CHI 2008.
-  - date:  Tue Apr 18
-    title: "Research Topic: Information and Communication Technologies and Development"
-    guest: "[Kurtis Heimerl](http://kurti.sh/)"
-    reading_framing:
-      - |
-        Kentaro Toyama. [Technology as Amplifier in International Development]({{ page.paper_url.toyama2011 }}). iConference 2011.
-    reading_instances:
-      - |
-        Kurtis Heimerl, , Shaddi Hasan, Kashif Ali, Tapan Parikh, Eric Brewer. [A Longitudinal Study of Local, Sustainable, Small-Scale Cellular Networks]( {{ page.paper_url.heimerl2014}}). ICTD 2013 Special Issue. Information Technologies & International Development 11(1). (2014).
-      - |
-        Thomas N. Smyth. [Where There's a Will There's a Way: Mobile Media Sharing in Urban India]( {{ page.paper_url.smyth2010}}). CHI 2010.
-#    reading_resources:
-#      - |
-#      - |
+        Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ paper.page_url.wobbrock2008 }}). CHI 2008.   
   - date:  Thu Apr 20
     title: "Research Topic: Design Tools"
     reading_framing:
