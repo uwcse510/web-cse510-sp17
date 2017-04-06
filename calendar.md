@@ -35,16 +35,20 @@ paper_url:
   theory_alkhatib2017:          https://canvas.uw.edu/files/41567565/download?download_frd=1
   theory_hornbaek2017:          https://canvas.uw.edu/files/41567566/download?download_frd=1
   survey_schlesinger2017:       https://canvas.uw.edu/files/41568236/download?download_frd=1
+ 
   # Usability Evaluation Considered Harmful
   stokes1997:                   https://canvas.uw.edu/files/41702911/download?download_frd=1
   simon1998:                    https://canvas.uw.edu/files/41702495/download?download_frd=1
   greenberg2008:                https://canvas.uw.edu/files/41702480/download?download_frd=1
+  usability_canvas:             https://canvas.uw.edu/courses/1138154/discussion_topics/3769804
+
   # Human Performance
   accot1992:                    https://canvas.uw.edu/files/41702724/download?download_frd=1
   apitz2004:                    https://canvas.uw.edu/files/41702725/download?download_frd=1
   mackenzie1992:                https://canvas.uw.edu/files/41702726/download?download_frd=1
   mackenzie2001:                https://canvas.uw.edu/files/41702727/download?download_frd=1
   wobbrock2008:                 https://canvas.uw.edu/files/41702728/download?download_frd=1                                        
+ 
   # Interacting with Cameras
   bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
   harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
@@ -315,7 +319,7 @@ calendar:
 
         Post a reading report in the appropriate thread:
 
-        `<https://canvas.uw.edu/courses/1021534/discussion_topics/3159098>`
+        {{ page.paper_url.usability_canvas }}
 
         Only one paper is assigned, so that will be the focus of your reading report.
   - date:  Thu Apr 13
