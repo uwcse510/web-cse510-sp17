@@ -195,7 +195,7 @@ calendar:
         ### Empirical Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        Yomna Abdelrahman, Mohamed Khamis, Stefan Schneegass, Florian Alt. [Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication]({{ paper.paper_url.empirical_abdelrahman2017 }}). CHI 2017.
+        Yomna Abdelrahman, Mohamed Khamis, Stefan Schneegass, Florian Alt. [Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication]( {{ page.paper_url.empirical_abdelrahman2017 }}). CHI 2017.
         </li>
         <li class="paper" markdown="block">
         Min Fan, Alissa N. Antle, Maureen Hoskyn, Carman Neustaedter, Emily S. Cramer. [Why Tangibility Matters: A Design Case Study of At-Risk Children Learning to Read and Spell]({{ page.paper_url.empirical_fan2017 }}). CHI 2017.
@@ -215,7 +215,7 @@ calendar:
         ### Methodological Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        Christopher Elsden, David Chatting, Abigail Durrant, Andrew Garbett, Bettina Nissen, John Vines, David Kirt. [On Speculative Enactments](/{{ page.paper_url.method_elsden2017 }}). CHI 2017.
+        Christopher Elsden, David Chatting, Abigail Durrant, Andrew Garbett, Bettina Nissen, John Vines, David Kirt. [On Speculative Enactments]( {{ page.paper_url.method_elsden2017 }} ). CHI 2017.
         </li>
         <li class="paper" markdown="block">
         Annu Sible Prabhakar, Lucia Guerra-Reyes, Vanessa M. Kleinschmidt, Ben Jelen, Haley MacLeod, Kay Connelly, Katie A. Siek. [Investigating the Suitability of the Asynchronous, Remote, Community-based Method for Pregnant and New Mothers]({{ page.paper_url.method_prabhakar2017 }}). CHI 2017
