@@ -5,6 +5,7 @@ title: Calendar
 paper_url:
   # History
   grudin2012:                   https://canvas.uw.edu/files/41501895/download?download_frd=1
+
   # Visions
   bederson1994:                 https://canvas.uw.edu/files/41501949/download?download_frd=1
   bush1945:                     https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
@@ -18,6 +19,7 @@ paper_url:
   wellner1993:                  https://canvas.uw.edu/files/41502182/download?download_frd=1
   wellner1993_video:            http://www.youtube.com/watch?v=S8lCetZ_57g
   victor2006:                   https://worrydream.com/MagicInk/
+
   # Contributions and Methods
   wobbrock2016:                 https://canvas.uw.edu/files/41501849/download?download_frd=1
   fogarty2017:                  https://canvas.uw.edu/files/41521924/download?download_frd=1
@@ -35,10 +37,13 @@ paper_url:
   theory_alkhatib2017:          https://canvas.uw.edu/files/41567565/download?download_frd=1
   theory_hornbaek2017:          https://canvas.uw.edu/files/41567566/download?download_frd=1
   survey_schlesinger2017:       https://canvas.uw.edu/files/41568236/download?download_frd=1
+ 
   # Usability Evaluation Considered Harmful
   stokes1997:                   https://canvas.uw.edu/files/41702911/download?download_frd=1
   simon1998:                    https://canvas.uw.edu/files/41702495/download?download_frd=1
   greenberg2008:                https://canvas.uw.edu/files/41702480/download?download_frd=1
+  usability_canvas:             https://canvas.uw.edu/courses/1138154/discussion_topics/3769804
+
   # Human Performance
   accot1992:                    https://canvas.uw.edu/files/41702724/download?download_frd=1
   apitz2004:                    https://canvas.uw.edu/files/41702725/download?download_frd=1
@@ -46,10 +51,12 @@ paper_url:
   mackenzie2001:                https://canvas.uw.edu/files/41702727/download?download_frd=1
   wobbrock2008:                 https://canvas.uw.edu/files/41702728/download?download_frd=1
   hp_canvas:                    https://canvas.uw.edu/courses/1138154/discussion_topics/3757333                                   
+
   # Interacting with Cameras
   bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
   harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
   wilson2014:                   https://canvas.uw.edu/files/41703284/download?download_frd=1
+
   # ICTD
   toyama2011:                   https://canvas.uw.edu/files/41704822/download?download_frd=1
   heimerl2014:                  https://canvas.uw.edu/files/41704820/download?download_frd=1
@@ -323,7 +330,7 @@ calendar:
 
         Post a reading report in the appropriate thread:
 
-        `<https://canvas.uw.edu/courses/1021534/discussion_topics/3159098>`
+        {{ page.paper_url.usability_canvas }}
 
         Only one paper is assigned, so that will be the focus of your reading report.
   - date:  Thu Apr 13
