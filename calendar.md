@@ -39,28 +39,24 @@ paper_url:
   stokes1997:                   https://canvas.uw.edu/files/41702911/download?download_frd=1
   simon1998:                    https://canvas.uw.edu/files/41702495/download?download_frd=1
   greenberg2008:                https://canvas.uw.edu/files/41702480/download?download_frd=1
+  # ICTD
+  toyama2011:                   https://canvas.uw.edu/files/41704822/download?download_frd=1
+  heimerl2014:                  https://canvas.uw.edu/files/41704820/download?download_frd=1
+  smyth2010:                    https://canvas.uw.edu/files/41704821/download?download_frd=1
   # Human Performance
   accot1992:                    https://canvas.uw.edu/files/41702724/download?download_frd=1
   apitz2004:                    https://canvas.uw.edu/files/41702725/download?download_frd=1
   mackenzie1992:                https://canvas.uw.edu/files/41702726/download?download_frd=1
   mackenzie2001:                https://canvas.uw.edu/files/41702727/download?download_frd=1
   wobbrock2008:                 https://canvas.uw.edu/files/41702728/download?download_frd=1
-  hp_canvas:                    https://canvas.uw.edu/courses/1138154/discussion_topics/3757333                                   
-  # Interacting with Cameras
-  bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
-  harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
-  wilson2014:                   https://canvas.uw.edu/files/41703284/download?download_frd=1
-  # ICTD
-  toyama2011:                   https://canvas.uw.edu/files/41704822/download?download_frd=1
-  heimerl2014:                  https://canvas.uw.edu/files/41704820/download?download_frd=1
-  smyth2010:                    https://canvas.uw.edu/files/41704821/download?download_frd=1
-  ictd_canvas:                  https://canvas.uw.edu/courses/1138154/discussion_topics/3769760
-
   # Design Tools
   hartmann2006:                 https://canvas.uw.edu/files/41744439/download?download_frd=1
   klemmer2001:                  https://canvas.uw.edu/files/41744440/download?download_frd=1
   newman2003:                   https://canvas.uw.edu/files/41744441/download?download_frd=1
-  dt_canvas:                    https://canvas.uw.edu/courses/1138154/discussion_topics/3769837
+  # Interacting with Cameras
+  bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
+  harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
+  wilson2014:                   https://canvas.uw.edu/files/41703284/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -82,10 +78,10 @@ calendar:
         </div>
       - |
         No Readings Assigned
-  - date:       Thu Mar 30
-    collapse:   true
-    slides:     "https://canvas.uw.edu/files/41659818/download?download_frd=1"
-    title:      Course Overview and HCI History
+  - date: Thu Mar 30
+    collapse: true
+    slides: "https://canvas.uw.edu/files/41659818/download?download_frd=1"
+    title: Course Overview and HCI History
     content:
       - |
         No Readings Assigned
@@ -98,9 +94,9 @@ calendar:
     content:
       - |
         <http://doodle.com/poll/f6cha4mq2ttns2ra>
-  - date:  Tue Apr 4
+  - date: Tue Apr 4
     collapse: true
-    slides:     "https://canvas.uw.edu/courses/1138154/files/folder/slides/l02-visions"
+    slides: "https://canvas.uw.edu/courses/1138154/files/folder/slides/l02-visions"
     title: Visions of Human-Computer Interaction
     content:
       - |
@@ -180,6 +176,8 @@ calendar:
         We are assigning them so that you can see these visions and explore them appropriately.
         You can and should skim according to your needs.
   - date:  Thu Apr 6
+    collapse: true
+    slides: "https://canvas.uw.edu/files/41762631/download?download_frd=1"
     title: Contributions and Methods in HCI
     content:
       - |
@@ -329,7 +327,7 @@ calendar:
   - date:  Thu Apr 13
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
-    discussion: {{ page.paper_url.ictd_canvas }}
+    discussion: https://canvas.uw.edu/courses/1138154/discussion_topics/3769760
     reading_framing:
       - |
         Kentaro Toyama. [Technology as Amplifier in International Development]({{ page.paper_url.toyama2011 }}). iConference 2011.
@@ -341,10 +339,10 @@ calendar:
   - date:  Tue Apr 18
     title: "Research Topic: Human Performance"
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
-    discussion: {{ page.paper_url.hp_canvas }}
+    discussion: https://canvas.uw.edu/courses/1138154/discussion_topics/3757333
     reading_framing:
       - |
-        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.macKenzie1992 }}). Human-Computer Interaction 7, 1. 1992. 
+        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.mackenzie1992 }}). Human-Computer Interaction 7, 1. 1992. 
     reading_instances:
       - |
         I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices]({{ page.paper_url.mackenzie2001 }}). CHI 2001.
@@ -357,7 +355,7 @@ calendar:
         Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ paper.page_url.wobbrock2008 }}). CHI 2008.   
   - date:  Thu Apr 20
     title: "Research Topic: Design Tools"
-    discussion: {{ page.paper_url.dt_canvas }}
+    discussion: https://canvas.uw.edu/courses/1138154/discussion_topics/3769837
     reading_framing:
       - |
         Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice]({{ page.paper_url.newman2003 }}). Human-Computer Interaction Journal, 2003.
@@ -387,7 +385,7 @@ calendar:
         
         Submit your document in PDF format:
 
-        <{{ page.cavas.milestone1_doc }}>
+        <{{ page.canvas.milestone1_doc }}>
       - |
         Submit your presentation in PDF, PPT, or PPTX format:
 
@@ -585,6 +583,14 @@ Additional optional resources:
 </li>
 {% endfor %}
 </ul>
+{% endif %}
+
+{% if daycurrent.discussion %}
+### Standard Reading Format
+
+Post a reading report in the appropriate thread(s):
+
+<{{ daycurrent.discussion }}>
 {% endif %}
 
 {% if daycurrent.collapse %}
