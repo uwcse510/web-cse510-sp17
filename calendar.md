@@ -518,7 +518,7 @@ calendar:
         
         Submit your document in PDF format:
 
-        {{ page.canvas.final_rep }}
+        <{{ page.canvas.final_rep }}>
 ---
 
 <html>
