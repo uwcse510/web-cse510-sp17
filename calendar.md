@@ -313,17 +313,17 @@ calendar:
         
         Submit your proposal document in PDF format:
 
-        {{ page.canvas.proposal_doc }}
+        <{{ page.canvas.proposal_doc }}>
 
         Submit your proposal presentation in PDF, PPT, or PPTX format:
 
-        {{ page.canvas.proposal_pres }}
+        <{{ page.canvas.proposal_pres }}>
       - |
         ### Non-Standard Reading Format
 
         Post a reading report in the appropriate thread:
 
-        `<https://canvas.uw.edu/courses/1021534/discussion_topics/3159098>`
+        <https://canvas.uw.edu/courses/1138154/discussion_topics/3769804>
 
         Only one paper is assigned, so that will be the focus of your reading report.
   - date:  Thu Apr 13
@@ -387,11 +387,11 @@ calendar:
         
         Submit your document in PDF format:
 
-        {{ page.cavas.milestone1_doc }}
+        <{{ page.cavas.milestone1_doc }}>
       - |
         Submit your presentation in PDF, PPT, or PPTX format:
 
-        {{ page.canvas.milestone1_pres }}
+        <{{ page.canvas.milestone1_pres }}>
   - date:  Tue May 2
     title: "Research Topic: Accessibility"
     guest: "[Meredith Ringel Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
@@ -469,11 +469,11 @@ calendar:
         
         Submit your document in PDF format:
 
-        {{ page.canvas.milestone2_doc }}
+        <{{ page.canvas.milestone2_doc }}>
 
         Submit your presentation in PDF, PPT, or PPTX format:
 
-        {{ page.canvas.milestone2_pres }}
+        <{{ page.canvas.milestone2_pres }}>
   - date:  Thu May 25
     title: "Research Topic: Interacting with Cameras"
     guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"
@@ -520,7 +520,7 @@ calendar:
         
         Submit your document in PDF format:
 
-        {{ page.canvas.final_rep }}
+        <{{ page.canvas.final_rep }}>
 ---
 
 <html>
