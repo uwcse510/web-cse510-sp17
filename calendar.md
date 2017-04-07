@@ -342,7 +342,7 @@ calendar:
     discussion: https://canvas.uw.edu/courses/1138154/discussion_topics/3757333
     reading_framing:
       - |
-        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.macKenzie1992 }}). Human-Computer Interaction 7, 1. 1992. 
+        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.mackenzie1992 }}). Human-Computer Interaction 7, 1. 1992. 
     reading_instances:
       - |
         I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices]({{ page.paper_url.mackenzie2001 }}). CHI 2001.
