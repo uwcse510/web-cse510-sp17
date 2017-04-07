@@ -272,6 +272,7 @@ calendar:
 
         No reading report is necessary.
   - date:  Fri Apr 7
+    collapse: true
     title: Project Feedback Meetings
     content:
       - |
