@@ -125,11 +125,11 @@ Due: Uploaded the night before class {{ page.due.proposal }}
 
 Submit your proposal document in PDF format:
 
-{{ page.canvas.proposal_doc}}
+<{{ page.canvas.proposal_doc}}>
 
 Submit your proposal presentation in PDF, PPT, or PPTX format:
 
-{{ page.canvas.proposal_pres }}
+<{{ page.canvas.proposal_pres }}>
 
 ### Milestone Reports
 
@@ -161,10 +161,10 @@ This is an opportunity for feedback, not a formal presentation. Please be approp
 
 Due: Uploaded the night before class {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.
 
-- Milestone 1 document: {{ page.canvas.milestone1_doc }}
-- Milestone 1 presentation: {{ page.canvast.milestone1_pres }}
-- Milestone 2 document: {{ page.canvas.milestone2_doc }}
-- Milestone 2 presentation: { page.canvast.milestone2_pres }}
+- Milestone 1 document: <{{ page.canvas.milestone1_doc }}>
+- Milestone 1 presentation: <{{ page.canvas.milestone1_pres }}>
+- Milestone 2 document: <{{ page.canvas.milestone2_doc }}>
+- Milestone 2 presentation: <{{ page.canvas.milestone2_pres }}>
 
 Submit your milestone document in PDF format.
 
@@ -201,7 +201,7 @@ Writing Advice, White Paper, 2015.
 
 Due: Uploaded by the end of day {{ page.due.finalreport }}.
 
-{{ page.canvas.final_rep }}
+<{{ page.canvas.final_rep }}>
 
 Submit your final report document in PDF format.
 
