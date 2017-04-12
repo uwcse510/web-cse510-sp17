@@ -1,6 +1,8 @@
 ---
 layout: base/bar/bar-sidebar-none
 title: Course Overview
+
+canvas_url: https://canvas.uw.edu/courses/1138154
 ---
 
 ## Course Description
@@ -100,7 +102,7 @@ Potential topics for discussion are:
 
 Discussions will be coordinated using Canvas, with a post for each day:
 
-<//canvas.uw.edu/courses/1138154>
+< {{ page.canvas_url }}>
 
 Reading reports are due the night before each class meeting.
 This ensures time to review discussion before class the next morning.
