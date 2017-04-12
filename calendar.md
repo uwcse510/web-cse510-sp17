@@ -278,6 +278,8 @@ calendar:
       - |
         <http://doodle.com/poll/f6cha4mq2ttns2ra>
   - date:  Tue Apr 11
+    collapse: true
+    slides: "https://canvas.uw.edu/courses/1138154/files/folder/slides/l04-proposals"
     title: Project Proposal Presentations / Usability Evaluation Considered Harmful
     content:
       - |
@@ -394,22 +396,31 @@ calendar:
   - date:  Tue May 2
     title: "Research Topic: Accessibility"
     guest: "[Meredith Ringel Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
-#    reading_framing:
-#      - |
-#    reading_instances:
-#      - |
-#      - |
-#    reading_resources:
-#      - |
-#      - |
+#    discussion:
+    content: |
+        <div class="directions" markdown="block">
+        Read these two framing papers:
+        <ul class="paper" markdown="block">
+        <li class="paper" markdown="block">
+        `Mankoff et al. Disability Studies as a Source of Critical Inquiry for the Field of Assistive Technology. Proceedings of ASSETS 2010.`
+        </li>
+        <li class="paper" markdown="block">
+        `Wobbrock et al. Ability-Based Design: Concept, Principles, and Examples. 2011. ACM Transactions on Accessible Computing.`
+        </li>
+        </ul>
+        </div>
   - date:  Thu May 4
     title: "Research Topic: Continuous Physiological Sensing"
     guest: "[Christian Holz](http://www.christianholz.net/)"
-#    reading_framing:
-#      - |
-#    reading_instances:
-#      - |
-#      - |
+#    discussion:
+    reading_framing:
+      - |
+        Bill Buxton. Touch, Gesture, & Marking. Book chapter 7 in Ronald M. Baecker, Jonathan Grudin, Bill Buxton, and Saul Greenberg, Readings in Human-Computer Interaction: Toward the Year 2000.
+    reading_instances:
+      - |
+        Christian Holz, Patrick Baudisch. Understanding Touch. CHI 2011.
+      - |
+        Daniel Vogel, Patrick Baudisch. Shift: A Technique for Operating Pen-Based Interfaces Using Touch. CHI 2007.
 #    reading_resources:
 #      - |
 #      - |
@@ -554,6 +565,7 @@ Guest: {{ daycurrent.guest | liquify }}
 {% endfor %}
 
 {% if daycurrent.reading_framing %}
+<div class="directions" markdown="block">
 Read the framing paper:
 <ul class="paper" markdown="block">
 {% for readingcurrent in daycurrent.reading_framing %}
@@ -562,9 +574,11 @@ Read the framing paper:
 </li>
 {% endfor %}
 </ul>
+</div>
 {% endif %}
 
 {% if daycurrent.reading_instances %}
+<div class="directions" markdown="block">
 Select one of these to read:
 <ul class="paper" markdown="block">
 {% for readingcurrent in daycurrent.reading_instances %}
@@ -573,9 +587,11 @@ Select one of these to read:
 </li>
 {% endfor %}
 </ul>
+</div>
 {% endif %}
 
 {% if daycurrent.reading_resources %}
+<div class="directions" markdown="block">
 Additional optional resources:
 <ul class="paper" markdown="block">
 {% for readingcurrent in daycurrent.reading_resources %}
@@ -584,14 +600,17 @@ Additional optional resources:
 </li>
 {% endfor %}
 </ul>
+</div>
 {% endif %}
 
 {% if daycurrent.discussion %}
+<div class="directions" markdown="block">
 ### Standard Reading Format
 
 Post a reading report in the appropriate thread(s):
 
 <{{ daycurrent.discussion }}>
+</div>
 {% endif %}
 
 {% if daycurrent.collapse %}
