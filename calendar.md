@@ -355,7 +355,7 @@ calendar:
       - |
         Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks]({{ page.paper_url.accot1997 }}). CHI 1997.
       - |
-        Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ page.page_url.wobbrock2008 }}). CHI 2008.   
+        Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ page.paper_url.wobbrock2008 }}). CHI 2008.   
   - date:  Thu Apr 20
     title: "Research Topic: Design Tools"
     discussion: https://canvas.uw.edu/courses/1138154/discussion_topics/3769837
