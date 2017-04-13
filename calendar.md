@@ -44,7 +44,7 @@ paper_url:
   heimerl2014:                  https://canvas.uw.edu/files/41704820/download?download_frd=1
   smyth2010:                    https://canvas.uw.edu/files/41704821/download?download_frd=1
   # Human Performance
-  accot1992:                    https://canvas.uw.edu/files/41702724/download?download_frd=1
+  accot1997:                    https://canvas.uw.edu/files/41702724/download?download_frd=1
   apitz2004:                    https://canvas.uw.edu/files/41702725/download?download_frd=1
   mackenzie1992:                https://canvas.uw.edu/files/41702726/download?download_frd=1
   mackenzie2001:                https://canvas.uw.edu/files/41702727/download?download_frd=1
@@ -355,7 +355,7 @@ calendar:
       - |
         Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks]({{ page.paper_url.accot1997 }}). CHI 1997.
       - |
-        Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ paper.page_url.wobbrock2008 }}). CHI 2008.   
+        Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ page.paper_url.wobbrock2008 }}). CHI 2008.   
   - date:  Thu Apr 20
     title: "Research Topic: Design Tools"
     discussion: https://canvas.uw.edu/courses/1138154/discussion_topics/3769837
