@@ -57,6 +57,10 @@ paper_url:
   bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
   harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
   wilson2014:                   https://canvas.uw.edu/files/41703284/download?download_frd=1
+  # Interacting with Code
+  green1996:                    https://canvas.uw.edu/files/42006234/download?download_frd=1
+  bragdon2010:                  https://canvas.uw.edu/files/42006233/download?download_frd=1
+  verou2016:                    https://canvas.uw.edu/files/42006235/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -513,11 +517,15 @@ calendar:
   - date:  Thu Jun 1
     title: "Research Topic: Interacting with Code"
     guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
-#    reading_framing:
-#      - |
-#    reading_instances:
-#      - |
-#      - |
+    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788041"
+    reading_framing:
+      - |
+        T. R. G. Green, & Marian Petre. [Usability Analysis of Visual Programming Environments: A 'Cognitive Dimensions' Framework]({{ page.paper_url.green1996 }}). Journal of Visual Languages & Computing, 1996.
+    reading_instances:
+      - |
+        Andrew Bragdon, Robert Zeleznik, Steven P. Reiss, Suman Karumuri, william Cheung, Joshua Kaplan, Christopher Coleman, Ferdi Adeputra, Joseph J. LaViola, Jr. [Code Bubbles: A Working Set-Based Interface for Code Understanding and Maintenance]({{ page.paper_url.bragdon2010 }}). CHI 2010.
+      - |
+        Lea Verou, Amy X. Zhang, David R. Karger. [Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML]({{ page.paper_url.verou2016 }}). UIST 2016.
 #    reading_resources:
 #      - |
 #      - |
