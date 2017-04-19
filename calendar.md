@@ -519,10 +519,10 @@ calendar:
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788041"
     reading_framing:
       - |
-        T. R. G. Green, & Marian Petre. [Usability Analysis of Visual Programming Environments: a ‘Cognitive Dimensions’ Framework]({{ page.paper_url.green1996 }}). Journal of Visual Languages & Computing, 1996.
+        T. R. G. Green, & Marian Petre. [Usability Analysis of Visual Programming Environments: A 'Cognitive Dimensions' Framework]({{ page.paper_url.green1996 }}). Journal of Visual Languages & Computing, 1996.
     reading_instances:
       - |
-        Andrew Bragdon, Robert Zeleznik, Steven P. Reiss, Suman Karumuri, william Cheung, Joshua Kaplan, Christopher Coleman, Ferdi Adeputra, Joseph J. LaViola, Jr. [Code Bubbles: a Working Set-Based Interface for Code Understanding and Maintenance]({{ page.paper_url.bragdon2010 }}). CHI 2010.
+        Andrew Bragdon, Robert Zeleznik, Steven P. Reiss, Suman Karumuri, william Cheung, Joshua Kaplan, Christopher Coleman, Ferdi Adeputra, Joseph J. LaViola, Jr. [Code Bubbles: A Working Set-Based Interface for Code Understanding and Maintenance]({{ page.paper_url.bragdon2010 }}). CHI 2010.
       - |
         Lea Verou, Amy X. Zhang, David R. Karger. [Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML]({{ page.paper_url.verou2016 }}). UIST 2016.
 #    reading_resources:
