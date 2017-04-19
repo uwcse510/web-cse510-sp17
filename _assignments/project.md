@@ -15,6 +15,8 @@ canvas:
   milestone2_pres:  https://canvas.uw.edu/courses/1138154/assignments/3697955
   milestone2_doc:   https://canvas.uw.edu/courses/1138154/assignments/3697972
   final_rep:        https://canvas.uw.edu/courses/1138154/assignments/3697976
+paper_url:
+  wobbrock2015:     https://canvas.uw.edu/files/42006907/download?download_frd=1
 ---
 
 ## Overview
@@ -193,7 +195,7 @@ Additional guidance regarding effective paper writing can be found in:
 
 <div class="paper" markdown="block">
 Jacob O. Wobbrock.
-`[Catchy Titles are Good: But Avoid Being Cute](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf).`
+[Catchy Titles are Good: But Avoid Being Cute]({{ page.paper_url.wobbrock2015 }}).
 Writing Advice, White Paper, 2015.
 </div>
 
