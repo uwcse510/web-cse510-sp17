@@ -342,6 +342,7 @@ calendar:
         Thomas N. Smyth. [Where There's a Will There's a Way: Mobile Media Sharing in Urban India]( {{ page.paper_url.smyth2010}}). CHI 2010.
   - date:  Tue Apr 18
     collapse: true
+    slides: "https://canvas.uw.edu/files/42006603/download?download_frd=1"
     title: "Research Topic: Human Performance"
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
     discussion: https://canvas.uw.edu/courses/1138154/discussion_topics/3757333
