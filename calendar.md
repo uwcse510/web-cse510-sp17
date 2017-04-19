@@ -420,7 +420,7 @@ calendar:
         Bill Buxton. Touch, Gesture, & Marking. Book chapter 7 in Ronald M. Baecker, Jonathan Grudin, Bill Buxton, and Saul Greenberg, Readings in Human-Computer Interaction: Toward the Year 2000.
     reading_instances:
       - |
-        Christian Holz, Patrick Baudisch. Understanding Touch. CHI 2011.
+        Christian Holz, Patrick Baudisch. The Generalized Perceived Input Point Model and How to Double Touch Accuracy by Extracting Fingerprints. CHI 2010.
       - |
         Daniel Vogel, Patrick Baudisch. Shift: A Technique for Operating Pen-Based Interfaces Using Touch. CHI 2007.
 #    reading_resources:
