@@ -64,6 +64,7 @@ paper_url:
   # Continuous Physiological Sensing
   holz2010:                     https://canvas.uw.edu/files/42020958/download?download_frd=1
   vogel2007:                    https://canvas.uw.edu/files/42020959/download?download_frd=1 
+  buxton1995:                   https://canvas.uw.edu/files/42032294/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -426,7 +427,7 @@ calendar:
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788839"
     reading_framing:
       - |
-        Bill Buxton. Touch, Gesture, & Marking. Book chapter 7 in Ronald M. Baecker, Jonathan Grudin, Bill Buxton, and Saul Greenberg, Readings in Human-Computer Interaction: Toward the Year 2000.
+        Bill Buxton. [Touch, Gesture, & Marking]({{ page.paper_url.buxton1995 }}). Book chapter 7 in Ronald M. Baecker, Jonathan Grudin, Bill Buxton, and Saul Greenberg, Readings in Human-Computer Interaction: Toward the Year 2000. 1995.
     reading_instances:
       - |
         Christian Holz, Patrick Baudisch. [The Generalized Perceived Input Point Model and How to Double Touch Accuracy by Extracting Fingerprints]({{ page.paper_url.holz2010 }}). CHI 2010.
