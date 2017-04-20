@@ -61,6 +61,9 @@ paper_url:
   green1996:                    https://canvas.uw.edu/files/42006234/download?download_frd=1
   bragdon2010:                  https://canvas.uw.edu/files/42006233/download?download_frd=1
   verou2016:                    https://canvas.uw.edu/files/42006235/download?download_frd=1
+  # Accessibility
+  mankoff2010:                  https://canvas.uw.edu/files/42020617/download?download_frd=1
+  wobbrock2011:                 https://canvas.uw.edu/files/42020620/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -404,16 +407,16 @@ calendar:
   - date:  Tue May 2
     title: "Research Topic: Accessibility"
     guest: "[Meredith Ringel Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
-#    discussion:
+    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788800"
     content: |
         <div class="directions" markdown="block">
         Read these two framing papers:
         <ul class="paper" markdown="block">
         <li class="paper" markdown="block">
-        `Mankoff et al. Disability Studies as a Source of Critical Inquiry for the Field of Assistive Technology. Proceedings of ASSETS 2010.`
+        Jennifer Mankoff, Gillian R. Hayes, Devva Kasnitz.[Disability Studies as a Source of Critical Inquiry for the Field of Assistive Technology]({{ page.paper_url.mankoff2010 }}). ASSETS 2010.
         </li>
         <li class="paper" markdown="block">
-        `Wobbrock et al. Ability-Based Design: Concept, Principles, and Examples. 2011. ACM Transactions on Accessible Computing.`
+        Jacob O. Wobbrock, Shaun K. Kane, Krzysztof Z. Gajos, Susumu Harada, Jon Froehlich. [Ability-Based Design: Concept, Principles, and Examples]({{ page.paper_url.wobbrock2011 }}). TACCESS 2011.
         </li>
         </ul>
         </div>
