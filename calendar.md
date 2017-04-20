@@ -333,6 +333,7 @@ calendar:
         Only one paper is assigned, so that will be the focus of your reading report.
   - date:  Thu Apr 13
     collapse: true
+    slides: "https://canvas.uw.edu/files/42010327/download?download_frd=1"
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
     discussion: https://canvas.uw.edu/courses/1138154/discussion_topics/3769760
