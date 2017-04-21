@@ -61,6 +61,10 @@ paper_url:
   green1996:                    https://canvas.uw.edu/files/42006234/download?download_frd=1
   bragdon2010:                  https://canvas.uw.edu/files/42006233/download?download_frd=1
   verou2016:                    https://canvas.uw.edu/files/42006235/download?download_frd=1
+  # Continuous Physiological Sensing
+  holz2010:                     https://canvas.uw.edu/files/42020958/download?download_frd=1
+  vogel2007:                    https://canvas.uw.edu/files/42020959/download?download_frd=1 
+  buxton1995:                   https://canvas.uw.edu/files/42032294/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -420,15 +424,15 @@ calendar:
   - date:  Thu May 4
     title: "Research Topic: Continuous Physiological Sensing"
     guest: "[Christian Holz](http://www.christianholz.net/)"
-#    discussion:
+    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788839"
     reading_framing:
       - |
-        Bill Buxton. Touch, Gesture, & Marking. Book chapter 7 in Ronald M. Baecker, Jonathan Grudin, Bill Buxton, and Saul Greenberg, Readings in Human-Computer Interaction: Toward the Year 2000.
+        Bill Buxton. [Touch, Gesture, & Marking]({{ page.paper_url.buxton1995 }}). Book chapter 7 in Ronald M. Baecker, Jonathan Grudin, Bill Buxton, and Saul Greenberg, Readings in Human-Computer Interaction: Toward the Year 2000. 1995.
     reading_instances:
       - |
-        Christian Holz, Patrick Baudisch. The Generalized Perceived Input Point Model and How to Double Touch Accuracy by Extracting Fingerprints. CHI 2010.
+        Christian Holz, Patrick Baudisch. [The Generalized Perceived Input Point Model and How to Double Touch Accuracy by Extracting Fingerprints]({{ page.paper_url.holz2010 }}). CHI 2010.
       - |
-        Daniel Vogel, Patrick Baudisch. Shift: A Technique for Operating Pen-Based Interfaces Using Touch. CHI 2007.
+        Daniel Vogel, Patrick Baudisch. [Shift: A Technique for Operating Pen-Based Interfaces Using Touch]( {{ page.paper_url.vogel2007 }}). CHI 2007.
 #    reading_resources:
 #      - |
 #      - |
