@@ -154,19 +154,15 @@ Jacob Wobbrock's independent study in Practical Statistics for Human-Computer I
 
 The assignment is available for download:
 
-`<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>`
+<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>
 
 ### Submission
 
-`Due: Uploaded before class Tuesday, February 9, 2016.`
+Due: Uploaded Sunday, May 14, 2017.
 
 Submit a ZIP archive including your document in PDF format and any additional files:
 
 `<https://canvas.uw.edu/courses/1021534/assignments/3143422>`
-
-Submit your time journal and assignment feedback:
-
-`<https://canvas.uw.edu/courses/1021534/quizzes/880792>`
 
 ## Project
 

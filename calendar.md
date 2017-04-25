@@ -372,6 +372,8 @@ calendar:
       - |
         Jacob Otto Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ page.paper_url.wobbrock2008 }}). CHI 2008.   
   - date:  Thu Apr 20
+    collapse: true
+    slides: "https://canvas.uw.edu/files/42112156/download?download_frd=1"
     title: "Research Topic: Design Tools"
     discussion: https://canvas.uw.edu/courses/1138154/discussion_topics/3769837
     reading_framing:
@@ -457,6 +459,13 @@ calendar:
         </div>
       - |
         No Readings Assigned
+  - date:  Sun May 14
+    title: Statistics Lab Due
+    content:
+      - |
+        <div class="major" markdown="block">
+        Due: [Statistics Lab]({{ site.baseurl }}/index.html#statistics-lab)
+        </div>
   - date:  Tue May 16
     title: "Research Topic: Human-Centered Machine Learning"
     guest: "[Saleema Amershi](https://research.microsoft.com/en-us/um/people/samershi/)"
