@@ -390,6 +390,7 @@ calendar:
       - |
         No Readings Assigned
   - date:  Thu Apr 27
+    collapse: true
     title: Project Progress Presentations
     content:
       - |
@@ -427,7 +428,7 @@ calendar:
         </ul>
         </div>
   - date:  Thu May 4
-    title: "Research Topic: Continuous Physiological Sensing"
+    title: "Research Topic: Modeling Touch Input"
     guest: "[Christian Holz](http://www.christianholz.net/)"
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788839"
     reading_framing:
