@@ -385,6 +385,7 @@ calendar:
       - |
         Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis]({{ page.paper_url.hartmann2006 }}). UIST 2006.
   - date:  Tue Apr 25
+    collapse: true
     title: Experimental Design and Analysis
     content:
       - |
