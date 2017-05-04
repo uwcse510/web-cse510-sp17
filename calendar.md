@@ -413,6 +413,7 @@ calendar:
 
         <{{ page.canvas.milestone1_pres }}>
   - date:  Tue May 2
+    collapse: true
     title: "Research Topic: Accessibility"
     guest: "[Meredith Ringel Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788800"
