@@ -433,6 +433,7 @@ calendar:
     collapse: true
     title: "Research Topic: Modeling Touch Input"
     guest: "[Christian Holz](http://www.christianholz.net/)"
+    slides: "https://canvas.uw.edu/files/42402157/download?download_frd=1"
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788839"
     reading_framing:
       - |
