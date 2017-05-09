@@ -420,6 +420,7 @@ calendar:
   - date:  Thu May 4
     title: "Research Topic: Continuous Physiological Sensing"
     guest: "[Christian Holz](http://www.christianholz.net/)"
+    slides: "https://canvas.uw.edu/files/42402157/download?download_frd=1"
 #    discussion:
     reading_framing:
       - |
