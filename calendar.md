@@ -493,6 +493,29 @@ calendar:
       - |
         `Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure](//dx.doi.org/10.1145/1753326.1753554). CHI 2010.`
   - date:  Tue May 23
+    title: "Research Topic: Design as Inquiry"
+    guest: "[Daniela Roesner](http://www.danielarosner.com/)"
+#    reading_framing:
+#      - |
+#    reading_instances:
+#      - |
+#      - |
+#    reading_resources:
+#      - |
+#      - |
+  - date:  Thu May 25
+    title: "Research Topic: Interacting with Cameras"
+    guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"
+    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757338"
+    reading_framing:
+      - |
+        Victoria Bellotti, Maribeth Back, W. Keith Edwards, Rebecca E. Grinter, Austin Henderson, Cristina Lopes. [Making Sense of Sensing Systems: Five Questions for Designers and Researchers]({{ page.paper_url.bellotti2002 }}). CHI 2002. 
+    reading_instances:
+      - |
+        Chris Harrison, Hrvoje Benko, Andrew D. Wilson. [OmniTouch: Wearable Multitouch Interaction Everywhere]({{ page.paper_url.harrison2011 }}). UIST 2011.
+      - |
+        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
+  - date:  Tue May 30
     title: Project Progress Presentations
     content:
       - |
@@ -513,29 +536,6 @@ calendar:
         Submit your presentation in PDF, PPT, or PPTX format:
 
         <{{ page.canvas.milestone2_pres }}>
-  - date:  Thu May 25
-    title: "Research Topic: Interacting with Cameras"
-    guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"
-    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757338"
-    reading_framing:
-      - |
-        Victoria Bellotti, Maribeth Back, W. Keith Edwards, Rebecca E. Grinter, Austin Henderson, Cristina Lopes. [Making Sense of Sensing Systems: Five Questions for Designers and Researchers]({{ page.paper_url.bellotti2002 }}). CHI 2002. 
-    reading_instances:
-      - |
-        Chris Harrison, Hrvoje Benko, Andrew D. Wilson. [OmniTouch: Wearable Multitouch Interaction Everywhere]({{ page.paper_url.harrison2011 }}). UIST 2011.
-      - |
-        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
-  - date:  Tue May 30
-    title: "Research Topic: Design as Inquiry"
-    guest: "[Daniela Roesner](http://www.danielarosner.com/)"
-#    reading_framing:
-#      - |
-#    reading_instances:
-#      - |
-#      - |
-#    reading_resources:
-#      - |
-#      - |
   - date:  Thu Jun 1
     title: "Research Topic: Interacting with Code"
     guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"

@@ -5,7 +5,7 @@ title: "Project"
 due:
   proposal:     Tuesday, April 11, 2017
   milestone1:   Thursday, April 27, 2017
-  milestone2:   Thursday, May 23, 2017
+  milestone2:   Thursday, May 30, 2017
   finalreport:  Monday, June 5, 2017
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
