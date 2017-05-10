@@ -68,6 +68,10 @@ paper_url:
   holz2010:                     https://canvas.uw.edu/files/42020958/download?download_frd=1
   vogel2007:                    https://canvas.uw.edu/files/42020959/download?download_frd=1 
   buxton1995:                   https://canvas.uw.edu/files/42032294/download?download_frd=1
+  # Human-Centered Machine Learning
+  patel2008:                    https://canvas.uw.edu/files/42432244/download?download_frd=1
+  cheng2015:                    https://canvas.uw.edu/files/42432240/download?download_frd=1
+  fails2013:                    https://canvas.uw.edu/files/42432242/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -474,11 +478,15 @@ calendar:
   - date:  Tue May 16
     title: "Research Topic: Human-Centered Machine Learning"
     guest: "[Saleema Amershi](https://research.microsoft.com/en-us/um/people/samershi/)"
-#    reading_framing:
-#      - |
-#    reading_instances:
-#      - |
-#      - |
+    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3815211"
+    reading_framing:
+      - |
+      Kayur Patel, James Fogarty, James A. Landay, Beverly Harrison. [Investigating Statistical Machine Learning as a Tool for Software Development.]({{ page.paper_url.patel2008 }}) CHI 2008.
+    reading_instances:
+      - |
+      Jerry Alan Fails, Dan R. Olsen, Jr. [Interactive Machine Learning.]({{ page.paper_url.fails2003 }}) IUI 2003.
+      - |
+      Justin Cheng, Michael S. Bernstein. [Flock: Hybrid Crowd-Machine Learning Classifiers.]({{ page.paper_url.cheng2015}}) CSCW 2015.
 #    reading_resources:
 #      - |
 #      - |
