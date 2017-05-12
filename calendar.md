@@ -81,6 +81,7 @@ canvas:
   milestone2_pres:  https://canvas.uw.edu/courses/1138154/assignments/3697955
   milestone2_doc:   https://canvas.uw.edu/courses/1138154/assignments/3697972
   final_rep:        https://canvas.uw.edu/courses/1138154/assignments/3697976
+  stats:            https://canvas.uw.edu/courses/1138154/assignments/3740017
 
 calendar:
   - date:  Tue Mar 28
@@ -486,7 +487,7 @@ calendar:
       - |
       Jerry Alan Fails, Dan R. Olsen, Jr. [Interactive Machine Learning.]({{ page.paper_url.fails2003 }}) IUI 2003.
       - |
-      Justin Cheng, Michael S. Bernstein. [Flock: Hybrid Crowd-Machine Learning Classifiers.]({{ page.paper_url.cheng2015}}) CSCW 2015.
+      Justin Cheng, Michael S. Bernstein. [Flock--Hybrid Crowd-Machine Learning Classifiers.]({{ page.paper_url.cheng2015}}) CSCW 2015.
 #    reading_resources:
 #      - |
 #      - |
