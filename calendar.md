@@ -482,12 +482,12 @@ calendar:
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3815211"
     reading_framing:
       - |
-      Kayur Patel, James Fogarty, James A. Landay, Beverly Harrison. [Investigating Statistical Machine Learning as a Tool for Software Development.]({{ page.paper_url.patel2008 }}) CHI 2008.
+        Kayur Patel, James Fogarty, James A. Landay, Beverly Harrison. [Investigating Statistical Machine Learning as a Tool for Software Development.]({{ page.paper_url.patel2008 }}) CHI 2008.
     reading_instances:
       - |
-      Jerry Alan Fails, Dan R. Olsen, Jr. [Interactive Machine Learning.]({{ page.paper_url.fails2003 }}) IUI 2003.
+        Jerry Alan Fails, Dan R. Olsen, Jr. [Interactive Machine Learning.]({{ page.paper_url.fails2003 }}) IUI 2003.
       - |
-      Justin Cheng, Michael S. Bernstein. [Flock--Hybrid Crowd-Machine Learning Classifiers.]({{ page.paper_url.cheng2015}}) CSCW 2015.
+        Justin Cheng, Michael S. Bernstein. [Flock: Hybrid Crowd-Machine Learning Classifiers.]({{ page.paper_url.cheng2015}}) CSCW 2015.
 #    reading_resources:
 #      - |
 #      - |
