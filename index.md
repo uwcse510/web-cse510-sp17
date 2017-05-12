@@ -3,6 +3,8 @@ layout: base/bar/bar-sidebar-none
 title: Course Overview
 
 canvas_url: https://canvas.uw.edu/courses/1138154
+
+canvas_stats: https://canvas.uw.edu/courses/1138154/assignments/3740017
 ---
 
 ## Course Description
@@ -162,7 +164,7 @@ Due: Uploaded Sunday, May 14, 2017.
 
 Submit a ZIP archive including your document in PDF format and any additional files:
 
-`<https://canvas.uw.edu/courses/1021534/assignments/3143422>`
+<{{page.canvas_stats}}>
 
 ## Project
 
