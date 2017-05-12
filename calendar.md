@@ -72,6 +72,10 @@ paper_url:
   patel2008:                    https://canvas.uw.edu/files/42432244/download?download_frd=1
   cheng2015:                    https://canvas.uw.edu/files/42432240/download?download_frd=1
   fails2013:                    https://canvas.uw.edu/files/42432242/download?download_frd=1
+  # Toolkit
+  bostock2011:                  https://canvas.uw.edu/files/42020390/download?download_frd=1
+  dixon2010:                    https://canvas.uw.edu/files/42020392/download?download_frd=1
+  myers2000:                    https://canvas.uw.edu/files/42020392/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
@@ -493,14 +497,15 @@ calendar:
 #      - |
   - date:  Thu May 18
     title: "Research Topic: Interface Toolkits"
+    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3817603"
     reading_framing:
       - |
-        `Brad Myers, Scott E. Hudson, Randy Pausch. [Past, Present, and Future of User Interface Software Tools](//dx.doi.org/10.1145/344949.344959). TOCHI 2000.`
+      Brad Myers, Scott E. Hudson, Randy Pausch. [Past, Present, and Future of User Interface Software Tools]({{page.paper_url.myers2000}}). TOCHI 2000.`
     reading_instances:
       - |
-        `Michael Bostock, Vadim Ogievetsky, Jeffrey Heer. [D<sup>3</sup>: Data-Driven Documents](//dx.doi.org/10.1109/TVCG.2011.185). InfoVis 2011.`
+      Michael Bostock, Vadim Ogievetsky, Jeffrey Heer. [D<sup>3</sup>: Data-Driven Documents]({{page.paper_url.bostock2011}}). InfoVis 2011.`
       - |
-        `Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure](//dx.doi.org/10.1145/1753326.1753554). CHI 2010.`
+      Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure]({{page.paper_url.dixon2010}}). CHI 2010.
   - date:  Tue May 23
     title: "Research Topic: Design as Inquiry"
     guest: "[Daniela Roesner](http://www.danielarosner.com/)"
