@@ -160,7 +160,7 @@ The assignment is available for download:
 
 ### Submission
 
-Due: Uploaded Sunday, May 14, 2017.
+Due: Uploaded Friday, May 19, 2017.
 
 Submit a ZIP archive including your document in PDF format and any additional files:
 
