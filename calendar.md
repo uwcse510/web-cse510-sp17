@@ -71,11 +71,11 @@ paper_url:
   # Human-Centered Machine Learning
   patel2008:                    https://canvas.uw.edu/files/42432244/download?download_frd=1
   cheng2015:                    https://canvas.uw.edu/files/42432240/download?download_frd=1
-  fails2003:                    https://canvas.uw.edu/files/42020393/download?download_frd=1
+  fails2003:                    https://canvas.uw.edu/files/42432242/download?download_frd=1
   # Toolkit
   bostock2011:                  https://canvas.uw.edu/files/42020390/download?download_frd=1
   dixon2010:                    https://canvas.uw.edu/files/42020392/download?download_frd=1
-  myers2000:                    https://canvas.uw.edu/files/42020392/download?download_frd=1
+  myers2000:                    https://canvas.uw.edu/files/42020393/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
