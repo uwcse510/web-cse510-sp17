@@ -474,8 +474,10 @@ calendar:
       - |
         No Readings Assigned
   - date:  Tue May 16
+    collapse: true
     title: "Research Topic: Human-Centered Machine Learning"
     guest: "[Saleema Amershi](https://research.microsoft.com/en-us/um/people/samershi/)"
+    slides: "https://canvas.uw.edu/files/42552212/download?download_frd=1"
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3815211"
     reading_framing:
       - |
