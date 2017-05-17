@@ -396,12 +396,14 @@ calendar:
   - date:  Tue Apr 25
     collapse: true
     title: Experimental Design and Analysis
+    slides: "https://canvas.uw.edu/files/42565009/download?download_frd=1"
     content:
       - |
         No Readings Assigned
   - date:  Thu Apr 27
     collapse: true
     title: Project Progress Presentations
+    slides: "https://canvas.uw.edu/courses/1138154/files/folder/slides/l08-milestone"
     content:
       - |
         <div class="alert" markdown="block">
@@ -424,6 +426,7 @@ calendar:
   - date:  Tue May 2
     collapse: true
     title: "Research Topic: Accessibility"
+    slides: "https://canvas.uw.edu/files/42564719/download?download_frd=1"
     guest: "[Meredith Ringel Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788800"
     content: |
@@ -509,16 +512,14 @@ calendar:
         Due: [Statistics Lab]({{ site.baseurl }}/index.html#statistics-lab)
         </div>
   - date:  Tue May 23
-    title: "Research Topic: Design as Inquiry"
-    guest: "[Daniela Roesner](http://www.danielarosner.com/)"
-#    reading_framing:
-#      - |
-#    reading_instances:
-#      - |
-#      - |
-#    reading_resources:
-#      - |
-#      - |
+    title: No Class
+    content:
+      - |
+        <div class="alert" markdown="block">
+        James Away
+        </div>
+      - |
+        No Readings Assigned
   - date:  Thu May 25
     title: "Research Topic: Interacting with Cameras"
     guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"
