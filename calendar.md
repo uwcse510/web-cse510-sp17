@@ -494,7 +494,9 @@ calendar:
 #      - |
 #      - |
   - date:  Thu May 18
+    collapse: true
     title: "Research Topic: Interface Toolkits"
+    slides: "https://canvas.uw.edu/files/42598151/download?download_frd=1"
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3817603"
     reading_framing:
       - |
