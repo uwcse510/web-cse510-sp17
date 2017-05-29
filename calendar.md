@@ -523,6 +523,7 @@ calendar:
       - |
         No Readings Assigned
   - date:  Thu May 25
+    collapse: True
     title: "Research Topic: Interacting with Cameras"
     guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757338"
