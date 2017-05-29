@@ -358,7 +358,7 @@ calendar:
         Kentaro Toyama. [Technology as Amplifier in International Development]({{ page.paper_url.toyama2011 }}). iConference 2011.
     reading_instances:
       - |
-        Kurtis Heimerl, , Shaddi Hasan, Kashif Ali, Tapan Parikh, Eric Brewer. [A Longitudinal Study of Local, Sustainable, Small-Scale Cellular Networks]( {{ page.paper_url.heimerl2014}}). ICTD 2013 Special Issue. Information Technologies & International Development 11(1). (2014).
+        Kurtis Heimerl, Shaddi Hasan, Kashif Ali, Tapan Parikh, Eric Brewer. [A Longitudinal Study of Local, Sustainable, Small-Scale Cellular Networks]( {{ page.paper_url.heimerl2014}}). ICTD 2013 Special Issue. Information Technologies & International Development 11(1). (2014).
       - |
         Thomas N. Smyth. [Where There's a Will There's a Way: Mobile Media Sharing in Urban India]( {{ page.paper_url.smyth2010}}). CHI 2010.
   - date:  Tue Apr 18
