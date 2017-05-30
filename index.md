@@ -5,6 +5,9 @@ title: Course Overview
 canvas_url: https://canvas.uw.edu/courses/1138154
 
 canvas_stats: https://canvas.uw.edu/courses/1138154/assignments/3740017
+
+canvas_exam: https://canvas.uw.edu/files/42803315/download?download_frd=1
+canvas_exam_submit: https://canvas.uw.edu/courses/1138154/assignments/3752580
 ---
 
 ## Course Description
@@ -111,26 +114,19 @@ This ensures time to review discussion before class the next morning.
 Submitting the day of class, just before class, or in class is therefore unacceptable, risking zero credit.
 But feel free to continue a discussion after this, even after class.
 
-## Exam
+## Project
 
-A take home exam will give an opportunity to demonstrate and apply your understanding of course material in a more substantial format.
-It requires you to connect concepts across papers, serving as an evaluation of your understanding and critical thinking 
-about course concepts. If you have kept pace with the readings, you will find this exam much easier to approach
-(e.g., simply referring back to readings, rather than needing to understand them from scratch).
-You may reference any of the articles, slides, notes, discussion posts, or other material readily available on the web. 
-You may consult the course staff with any questions, but this is strictly an individual assignment (i.e., do not discuss it with others).
+A course project will be a major component of your work. Details of the project are here:
 
-{% comment %}
-### Download
+<{{ site.url }}{{ site.baseurl }}/assignments/project.html>
 
-The exam is available for download: 
+Dates are also linked from the course calendar.
 
-<{{ site.url }}{{ site.baseurl }}/assignments/finalexam.pdf>
+Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-### Submission
+<https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>
 
-Due: Uploaded by end of day Thursday, March 10, 2016.
-{% endcomment %}
+You can also use that discussion identify potential project partners and to post your own ideas.
 
 ## Statistics Lab
 
@@ -166,28 +162,35 @@ Submit a ZIP archive including your document in PDF format and any additional fi
 
 <{{page.canvas_stats}}>
 
-## Project
+## Exam
 
-A course project will be a major component of your work. Details of the project are here:
+A take home exam will give an opportunity to demonstrate and apply your understanding of course material in a more substantial format.
+It requires you to connect concepts across papers, serving as an evaluation of your understanding and critical thinking
+about course concepts. If you have kept pace with the readings, you will find this exam much easier to approach
+(e.g., simply referring back to readings, rather than needing to understand them from scratch).
+You may reference any of the articles, slides, notes, discussion posts, or other material readily available on the web.
+You may consult the course staff with any questions, but this is strictly an individual assignment (i.e., do not discuss it with others).
 
-<{{ site.url }}{{ site.baseurl }}/assignments/project.html>
+### Download
 
-Dates are also linked from the course calendar.
+The exam is available for download:
 
-Some sample project ideas, gathered from faculty and researchers, have been made available here:
+<{{ page.canvas_exam }}>
 
-<https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>
+### Submission
 
-You can also use that discussion identify potential project partners and to post your own ideas.
+Due: Uploaded by end of day Wednesday, June 7, 2017.
+
+<{{ page.canvas_exam_submit }}>
 
 ## Grading
 
 Grading will roughly correspond to:
 
-- 45%: Group Project
 - 20%: Readings
-- 15%: Exam
+- 45%: Group Project
 - 10%: Statistics Lab
+- 15%: Exam
 - 10%: Participation
 
 Much of the grading in this course is necessarily subjective.
