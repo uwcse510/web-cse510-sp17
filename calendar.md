@@ -527,6 +527,7 @@ calendar:
   - date:  Thu May 25
     collapse: True
     title: "Research Topic: Interacting with Cameras"
+    slides: "https://canvas.uw.edu/files/42845204/download?download_frd=1"
     guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3757338"
     reading_framing:
