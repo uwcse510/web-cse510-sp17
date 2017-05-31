@@ -539,6 +539,7 @@ calendar:
         Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
   - date:  Tue May 30
     collapse: True
+    slides: "https://canvas.uw.edu/courses/1138154/files/folder/slides/l14-milestone"
     title: Project Progress Presentations
     content:
       - |
