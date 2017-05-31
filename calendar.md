@@ -507,6 +507,7 @@ calendar:
       - |
         Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure]({{page.paper_url.dixon2010}}). CHI 2010.
   - date:  Fri May 19
+    collapse: True
     title: Statistics Lab Due
     content:
       - |
@@ -514,6 +515,7 @@ calendar:
         Due: [Statistics Lab]({{ site.baseurl }}/index.html#statistics-lab)
         </div>
   - date:  Tue May 23
+    collapse: True
     title: No Class
     content:
       - |
@@ -536,6 +538,7 @@ calendar:
       - |
         Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
   - date:  Tue May 30
+    collapse: True
     title: Project Progress Presentations
     content:
       - |
