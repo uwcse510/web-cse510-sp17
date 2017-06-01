@@ -562,6 +562,7 @@ calendar:
 
         <{{ page.canvas.milestone2_pres }}>
   - date:  Thu Jun 1
+    collapse: True
     title: "Research Topic: Interacting with Code"
     guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
     slides: "https://canvas.uw.edu/files/42874831/download?download_frd=1"
