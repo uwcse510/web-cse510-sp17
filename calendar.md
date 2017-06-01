@@ -564,6 +564,7 @@ calendar:
   - date:  Thu Jun 1
     title: "Research Topic: Interacting with Code"
     guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
+    slides: "https://canvas.uw.edu/files/42874831/download?download_frd=1"
     discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788041"
     reading_framing:
       - |
